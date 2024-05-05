@@ -8,24 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\malie\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\EXCALIBUR\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
+      "projectUniqueName": "C:\\Users\\EXCALIBUR\\Source\\Repos\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
       "projectName": "Interactive_Syllabus",
-      "projectPath": "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
-      "packagesPath": "C:\\Users\\malie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\obj\\",
+      "projectPath": "C:\\Users\\EXCALIBUR\\Source\\Repos\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
+      "packagesPath": "C:\\Users\\EXCALIBUR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EXCALIBUR\\Source\\Repos\\Interactive_syllabus\\Interactive_Syllabus\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\malie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\EXCALIBUR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,10 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.pkg.github.com/xysinav/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
@@ -48,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -72,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
