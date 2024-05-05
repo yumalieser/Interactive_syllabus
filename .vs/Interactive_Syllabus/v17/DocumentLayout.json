@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\source\\repos\\Interactive_syllabus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EXCALIBUR\\source\\repos\\Interactive_syllabus\\Interactive_Syllabus\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interactive_Syllabus\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\excalibur\\source\\repos\\interactive_syllabus\\interactive_syllabus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EXCALIBUR\\source\\repos\\Interactive_syllabus\\interactive_syllabus\\interactive_syllabus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:interactive_syllabus\\interactive_syllabus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\Interactive_syllabus\\interactive_syllabus\\interactive_syllabus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\interactive_syllabus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,6 +49,10 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -56,7 +60,7 @@
               "RelativeDocumentMoniker": "Interactive_Syllabus\\Program.cs",
               "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\Interactive_syllabus\\Interactive_Syllabus\\Program.cs",
               "RelativeToolTip": "Interactive_Syllabus\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T10:06:00.373Z",
               "EditorCaption": ""
