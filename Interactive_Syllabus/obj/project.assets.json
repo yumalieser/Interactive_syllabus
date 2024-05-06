@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\EXCALIBUR\\.nuget\\packages\\": {}
+    "C:\\Users\\Sadık Abdusselam\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EXCALIBUR\\Source\\Repos\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
+      "projectUniqueName": "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
       "projectName": "Interactive_Syllabus",
-      "projectPath": "C:\\Users\\EXCALIBUR\\Source\\Repos\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
-      "packagesPath": "C:\\Users\\EXCALIBUR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EXCALIBUR\\Source\\Repos\\Interactive_syllabus\\Interactive_Syllabus\\obj\\",
+      "projectPath": "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
+      "packagesPath": "C:\\Users\\Sadık Abdusselam\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\EXCALIBUR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sadık Abdusselam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
