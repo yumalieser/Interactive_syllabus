@@ -29,3 +29,34 @@ C:\Users\Sadık Abdusselam\Desktop\Public Class gameMake{ }\Public void Coder(in
 C:\Users\Sadık Abdusselam\Desktop\Public Class gameMake{ }\Public void Coder(int case)\case2\c#Data\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.pdb
 C:\Users\Sadık Abdusselam\Desktop\Public Class gameMake{ }\Public void Coder(int case)\case2\c#Data\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.genruntimeconfig.cache
 C:\Users\Sadık Abdusselam\Desktop\Public Class gameMake{ }\Public void Coder(int case)\case2\c#Data\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\ref\Interactive_Syllabus.dll
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\bin\Debug\net7.0\appsettings.json
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\bin\Debug\net7.0\Interactive_Syllabus.staticwebassets.runtime.json
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\bin\Debug\net7.0\Interactive_Syllabus.exe
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\bin\Debug\net7.0\Interactive_Syllabus.deps.json
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\bin\Debug\net7.0\Interactive_Syllabus.runtimeconfig.json
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\bin\Debug\net7.0\Interactive_Syllabus.dll
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\bin\Debug\net7.0\Interactive_Syllabus.pdb
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.AssemblyInfo.cs
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.RazorAssemblyInfo.cache
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.RazorAssemblyInfo.cs
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.sourcelink.json
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\staticwebassets\msbuild.Interactive_Syllabus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\staticwebassets\msbuild.build.Interactive_Syllabus.props
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Interactive_Syllabus.props
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Interactive_Syllabus.props
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\scopedcss\bundle\Interactive_Syllabus.styles.css
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\scopedcss\projectbundle\Interactive_Syllabus.bundle.scp.css
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.dll
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\refint\Interactive_Syllabus.dll
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.pdb
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\Interactive_Syllabus.genruntimeconfig.cache
+C:\Users\EXCALIBUR\source\repos\tübitak\Interactive_syllabus\Interactive_Syllabus\obj\Debug\net7.0\ref\Interactive_Syllabus.dll

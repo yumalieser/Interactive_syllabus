@@ -10,16 +10,16 @@ namespace Interactive_Syllabus.Controllers
         {
             return View();
         }
+        [HttpPost]
         public IActionResult Student()
         {
             return View();
         }
-        public IActionResult Academician() 
+		[HttpPost]
+		public IActionResult Academician() 
         {
             return View();
         }
-
-      
 
     }
 }
