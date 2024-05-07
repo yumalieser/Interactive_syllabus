@@ -165,12 +165,12 @@ iframe {
 
 .container-login100 {
   width: 100%;  
-  min-height: 90.5vh;/*Sayfa yüksekliði, çok spesipifk bir boyut eklendi her ekranda doðru çalýþmaya bilir*/
+  min-height: 100.5vh;/*Sayfa yüksekliði, çok spesipifk bir boyut eklendi her ekranda doðru çalýþmaya bilir*/
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
   display: -ms-flexbox;
-  display: flex;
+  display: flex; 
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
