@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Interactive_Syllabus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f7c006ef0caf479ea824dca20160a2825cf5bee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdcdd13cfdff3ff8d19b7804875ac392270f3c92")]
 [assembly: System.Reflection.AssemblyProductAttribute("Interactive_Syllabus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Interactive_Syllabus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
