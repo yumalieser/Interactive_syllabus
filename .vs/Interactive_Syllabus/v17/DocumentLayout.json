@@ -3,19 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\academician.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\academician.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\excalibur\\source\\repos\\t\u00FCbitak\\interactive_syllabus\\interactive_syllabus\\wwwroot\\login_v4\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\wwwroot\\login_v4\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\excalibur\\source\\repos\\t\u00FCbitak\\interactive_syllabus\\interactive_syllabus\\views\\login\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -23,12 +15,32 @@
       "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\wwwroot\\navigatonbar\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\wwwroot\\navigatonbar\\\u0130ndex.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\wwwroot\\navigatonbar\\\u0130ndex.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\wwwroot\\login_v4\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\wwwroot\\login_v4\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\excalibur\\source\\repos\\t\u00FCbitak\\interactive_syllabus\\interactive_syllabus\\views\\login\\academician.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\academician.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\wwwroot\\navigatonbar\\\u0130ndex.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\wwwroot\\navigatonbar\\\u0130ndex.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\excalibur\\source\\repos\\t\u00FCbitak\\interactive_syllabus\\interactive_syllabus\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\wwwroot\\login_v4\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\wwwroot\\login_v4\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\wwwroot\\login_v4\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\interactive_syllabus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\interactive_syllabus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -58,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,11 +102,41 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\Login_v4\\css\\main.css",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\wwwroot\\Login_v4\\css\\main.css",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\Login_v4\\css\\main.css",
+              "RelativeToolTip": "Interactive_Syllabus\\wwwroot\\Login_v4\\css\\main.css",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAKcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-07T10:29:50.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Interactive_Syllabus\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:48:56.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\Controllers\\LoginController.cs",
@@ -106,11 +144,12 @@
               "RelativeToolTip": "Interactive_Syllabus\\Controllers\\LoginController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T08:47:14.576Z"
+              "WhenOpened": "2024-05-06T08:47:14.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\wwwroot\\js\\site.js",
@@ -122,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "main.js",
               "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\Login_v4\\js\\main.js",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\wwwroot\\Login_v4\\js\\main.js",
@@ -134,51 +173,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\Login_v4\\index.html",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\wwwroot\\Login_v4\\index.html",
               "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\Login_v4\\index.html",
               "RelativeToolTip": "Interactive_Syllabus\\wwwroot\\Login_v4\\index.html",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAowHkAAAAHAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowHkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-06T09:03:12.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Academician.cshtml",
-              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
-              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
-              "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
-              "ViewState": "AQIAABEAAAAAAAAAAADwvyEAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T09:02:56.582Z",
+              "WhenOpened": "2024-05-06T09:03:12.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Home.cshtml",
               "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Home.cshtml",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Home.cshtml",
               "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Home.cshtml",
               "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Home.cshtml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFsAAAAOAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-06T09:02:37.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Student.cshtml",
               "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Student.cshtml",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Student.cshtml",
               "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Student.cshtml",
               "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Student.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAADwvz0AAAALAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-06T17:21:01.667Z",
               "EditorCaption": ""
@@ -186,43 +213,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
+              "RelativeToolTip": "Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-07T07:53:13.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Academician.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
+              "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvyEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T09:02:56.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\u0130ndex.html",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\NavigatonBar\\\u0130ndex.html",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\wwwroot\\NavigatonBar\\\u0130ndex.html",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\NavigatonBar\\\u0130ndex.html",
+              "RelativeToolTip": "Interactive_Syllabus\\wwwroot\\NavigatonBar\\\u0130ndex.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-07T07:46:48.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ResetPassword.cshtml",
               "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\ResetPassword.cshtml",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\ResetPassword.cshtml",
               "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\ResetPassword.cshtml",
               "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\ResetPassword.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-07T07:20:29.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "\u0130ndex.html",
-              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\NavigatonBar\\\u0130ndex.html",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\wwwroot\\NavigatonBar\\\u0130ndex.html",
-              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\NavigatonBar\\\u0130ndex.html",
-              "RelativeToolTip": "Interactive_Syllabus\\wwwroot\\NavigatonBar\\\u0130ndex.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-07T07:46:48.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
-              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
-              "RelativeToolTip": "Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-07T07:53:13.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Program.cs",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\Program.cs",
@@ -234,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Interactive_Syllabus.csproj",
               "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\Interactive_Syllabus.csproj",

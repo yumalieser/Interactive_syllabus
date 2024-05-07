@@ -160,12 +160,12 @@ iframe {
 [ login ]*/
 .limiter {
   width: 100%;
-  margin: 0 auto;
+  margin: 0px ;
 }
 
 .container-login100 {
   width: 100%;  
-  min-height: 100vh;
+  min-height: 90.25vh;/*Sayfa yüksekliði, çok spesipifk bir boyut eklendi*/
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -174,13 +174,13 @@ iframe {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  padding: 15px;
+  padding: 10px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 
-.wrap-login100 {
+.wrap-login100 { /*Kare alaný yandan daraltýyor*/
   width: 500px;
   background: #fff;
   border-radius: 10px;
