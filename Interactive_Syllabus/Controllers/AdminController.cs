@@ -4,9 +4,13 @@ namespace Interactive_Syllabus.Controllers
 {
 	public class AdminController : Controller
 	{
-		public IActionResult AdminLogin()
+		public IActionResult Login()
 		{
 			return View();
 		}
-	}
+        public IActionResult Panel()
+        {
+            return View();
+        }
+    }
 }
