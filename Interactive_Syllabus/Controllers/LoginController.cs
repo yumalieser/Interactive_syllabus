@@ -21,5 +21,10 @@ namespace Interactive_Syllabus.Controllers
             return View();
         }
 
-    }
+		public IActionResult ResetPassword()
+		{
+			return View();
+		}
+
+	}
 }
