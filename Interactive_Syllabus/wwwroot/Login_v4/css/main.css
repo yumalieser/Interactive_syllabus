@@ -165,7 +165,7 @@ iframe {
 
 .container-login100 {
   width: 100%;  
-  min-height: 100.5vh;/*Sayfa yüksekliði, çok spesipifk bir boyut eklendi her ekranda doðru çalýþmaya bilir*/
+  min-height: 100vh;/*Sayfa yüksekliði, çok spesipifk bir boyut eklendi her ekranda doðru çalýþmaya bilir*/
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;
@@ -351,7 +351,7 @@ iframe {
 }
 
 .login100-form-btn {
-  font-family: Poppins-Medium;
+  font-family: Poppins, sans-serif;
   font-size: 16px;
   color: #fff;
   line-height: 1.2;
@@ -368,6 +368,7 @@ iframe {
   width: 100%;
   height: 50px;
 }
+
 
 .wrap-login100-form-btn:hover .login100-form-bgbtn {
   left: 0;
