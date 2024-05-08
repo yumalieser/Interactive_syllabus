@@ -25,6 +25,10 @@ namespace Interactive_Syllabus.Controllers
 		{
 			return View();
 		}
+		public IActionResult Home_En()
+		{
+			return View();
+		}
 
 	}
 }
