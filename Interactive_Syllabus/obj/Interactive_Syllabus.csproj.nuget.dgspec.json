@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj": {}
+    "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj": {
+    "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
+        "projectUniqueName": "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
         "projectName": "Interactive_Syllabus",
-        "projectPath": "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
-        "packagesPath": "C:\\Users\\Sadık Abdusselam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\obj\\",
+        "projectPath": "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
+        "packagesPath": "C:\\Users\\malie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sadık Abdusselam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\malie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/xysinav/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -38,11 +41,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -93,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
