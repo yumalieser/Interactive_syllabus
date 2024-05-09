@@ -41,5 +41,6 @@ namespace Interactive_Syllabus.Controllers
 		{
 			return View();
 		}
+		
 	}
 }

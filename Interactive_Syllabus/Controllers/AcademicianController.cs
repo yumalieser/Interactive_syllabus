@@ -4,6 +4,7 @@ namespace Interactive_Syllabus.Controllers
 {
 	public class AcademicianController : Controller
 	{
+		[HttpPost]
 		public IActionResult Panel()
 		{
 			return View();

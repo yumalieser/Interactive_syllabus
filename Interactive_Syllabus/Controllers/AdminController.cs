@@ -8,7 +8,8 @@ namespace Interactive_Syllabus.Controllers
 		{
 			return View();
 		}
-        public IActionResult Panel()
+		[HttpPost]
+		public IActionResult Panel()
         {
             return View();
         }
