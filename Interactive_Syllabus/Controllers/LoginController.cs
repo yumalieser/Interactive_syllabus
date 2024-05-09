@@ -29,6 +29,17 @@ namespace Interactive_Syllabus.Controllers
 		{
 			return View();
 		}
-
+		public IActionResult Student_En()
+		{
+			return View();
+		}
+		public IActionResult Academician_En()
+		{
+			return View();
+		}
+		public IActionResult ResetPassword_En()
+		{
+			return View();
+		}
 	}
 }
