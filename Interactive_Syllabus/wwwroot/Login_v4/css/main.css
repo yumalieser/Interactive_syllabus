@@ -165,7 +165,7 @@ iframe {
 
 .container-login100 {
   width: 100%;  
-  min-height: 100vh;/*Sayfa yüksekliði, çok spesipifk bir boyut eklendi her ekranda doðru çalýþmaya bilir*/
+  min-height: 100vh;
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-box;

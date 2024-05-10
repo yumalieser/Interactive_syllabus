@@ -12,5 +12,13 @@ namespace Interactive_Syllabus.Controllers
 		{
 			return View();
 		}
+		public IActionResult Students()
+		{
+			return View();
+		}
+		public IActionResult Syllabus()
+		{
+			return View();
+		}
 	}
 }
