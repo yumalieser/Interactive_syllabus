@@ -36,7 +36,8 @@
 				<button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
 					<span class="mdi mdi-menu"></span>
 				</button>
-				
+				<div class="search-field d-none d-md-block">
+				</div>
 				<ul class="navbar-nav navbar-nav-right">
 					<li class="nav-item nav-profile dropdown">
 						<a class="nav-link dropdown-toggle" id="profileDropdown" href="#" data-toggle="dropdown" aria-expanded="false">
@@ -98,19 +99,19 @@
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="pages/icons/mdi.html">
+						<a class="nav-link" href="/Academician/Students">
 							<span class="menu-title">Öğrenci ayarları</span>
 							<i class="mdi mdi-contacts menu-icon"></i>
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="pages/icons/mdi.html">
+						<a class="nav-link" href="/Academician/Syllabus">
 							<span class="menu-title">Ders Programı</span>
 							<i class="mdi mdi-contacts menu-icon"></i>
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="pages/icons/mdi.html">
+						<a class="nav-link" href="/Academician/Objections">
 							<span class="menu-title">İtirazlar</span>
 							<i class="mdi mdi-contacts menu-icon"></i>
 						</a>
@@ -130,7 +131,7 @@
 						<h3 class="page-title">
 							<span class="page-title-icon bg-gradient-primary text-white mr-2">
 								<i class="mdi mdi-home"></i>
-							</span> Öğrenciler
+							</span> Dashboard
 						</h3>
 						<nav aria-label="breadcrumb">
 							<ul class="breadcrumb">
@@ -140,61 +141,63 @@
 							</ul>
 						</nav>
 					</div>
-					<div class="col-md-16 grid-margin stretch-card">
-						<div class="card">
-							<div class="card-body">
-								<h4 class="card-title">Öğrenci Detayları</h4>
-								<div class="search-field d-none d-md-block">
-									<form class="d-flex align-items-center h-100" action="#">
-										<div class="input-group">
-											<div class="input-group-prepend bg-transparent">
-												<i class="input-group-text border-0 mdi mdi-magnify"></i>
-											</div>
-											<input type="text" class="form-control bg-transparent border-0" placeholder="Öğrenci Ara">
-										</div>
-									</form>
-								</div>
-								<div class="table-responsive">
-									<table class="table">
-										<thead>
-											<tr>
-												<th> Numarası </th>
-												<th> İsim </th>
-												<th> Sınıf </th>
-												<th> Aldğı dersler(Kod) </th>
-											</tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td> 226051025 </td>
-												<td> Sadık Abdusselam Albayrak</td>
-												<td> 2.sınıf </td>
-												<td>
-													<ul style="list-style-type:none">
-														<li>BMÜ2202,BMÜ2204,BMÜ2206,BMÜ2208</li>
-														<li>BMÜ2210,BMÜ2212,BMÜ2232</li>
-													</ul>
-												</td>
-											</tr>
-											<tr>
-												<td> 226051025 </td>
-												<td> Sadık Abdusselam Albayrak</td>
-												<td> 2.sınıf </td>
-												<td>
-													<ul style="list-style-type:none">
-														<li>BMÜ2202,BMÜ2204,BMÜ2206,BMÜ2208</li>
-														<li>BMÜ2210,BMÜ2212,BMÜ2232</li>
-													</ul>
-												</td>
-											</tr>
-										</tbody>
-									</table>
+					<div class="row">
+						<div class="col-md-12 grid-margin stretch-card">
+							<div class="card">
+								<div class="card-body">
+									<h4 class="card-title text-white">İtirazlar</h4>
+									<div class="list-wrapper">
+										<ul class="d-flex flex-column-reverse todo-list todo-list-custom">
+											<table class="table">
+												<thead>
+													<tr>
+														<th> Numarası </th>
+														<th> İsim </th>
+														<th> Sınıf </th>
+														<th> İtiraz </th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td> 226051025 </td>
+														<td> Sadık Abdusselam Albayrak</td>
+														<td> 2.sınıf </td>
+														<td>
+															<li>
+																<div class="form-check">
+																	<label class="form-check-label">
+																		<input class="checkbox" type="checkbox"> Meeting with Alisa
+																	</label>
+																</div>
+																<i class="remove mdi mdi-close-circle-outline"></i>
+															</li>
+														</td>
+													</tr>
+													<tr>
+														<td> 226051025 </td>
+														<td> Sadık Abdusselam Albayrak</td>
+														<td> 2.sınıf </td>
+														<td>
+															<li>
+																<div class="form-check">
+																	<label class="form-check-label">
+																		<input class="checkbox" type="checkbox"> Create invoice
+																	</label>
+																</div>
+																<i class="remove mdi mdi-close-circle-outline"></i>
+															</li>
+														</td>
+													</tr>
+												</tbody>
+											</table>
+										</ul>
+									</div>
 								</div>
 							</div>
 						</div>
-					</div>
 				</div>
 				<!-- content-wrapper ends -->
+				<!-- partial -->
 			</div>
 			<!-- main-panel ends -->
 		</div>

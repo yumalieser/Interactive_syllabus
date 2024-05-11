@@ -2,4 +2,193 @@
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
+	Layout = null;
 }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Purple Admin</title>
+	<!-- plugins:css -->
+	<link rel="stylesheet" href="~/AdminTheme/assets/vendors/mdi/css/materialdesignicons.min.css">
+	<link rel="stylesheet" href="~/AdminTheme/assets/vendors/css/vendor.bundle.base.css">
+	<!-- endinject -->
+	<!-- Plugin css for this page -->
+	<!-- End plugin css for this page -->
+	<!-- inject:css -->
+	<!-- endinject -->
+	<!-- Layout styles -->
+	<link rel="stylesheet" href="~/AdminTheme/assets/css/style.css">
+	<!-- End layout styles -->
+	<link rel="shortcut icon" href="~/AdminTheme/assets/images/favicon.ico" />
+</head>
+<body>
+	<div class="container-scroller">
+		<!-- partial:partials/_navbar.html -->
+		<nav class="navbar default-layout-navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+			<div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
+				<a class="navbar-brand brand-logo" href="index.html"><img src="~/AdminTheme/assets/images/logo.svg" alt="logo" /></a>
+				<a class="navbar-brand brand-logo-mini" href="index.html"><img src="~/AdminTheme/assets/images/logo-mini.svg" alt="logo" /></a>
+			</div>
+			<div class="navbar-menu-wrapper d-flex align-items-stretch">
+				<button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
+					<span class="mdi mdi-menu"></span>
+				</button>
+				<div class="search-field d-none d-md-block">
+				</div>
+				<ul class="navbar-nav navbar-nav-right">
+					<li class="nav-item nav-profile dropdown">
+						<a class="nav-link dropdown-toggle" id="profileDropdown" href="#" data-toggle="dropdown" aria-expanded="false">
+							<div class="nav-profile-img">
+								<img src="~/AdminTheme/assets/images/faces/face1.jpg" alt="image">
+								<span class="availability-status online"></span>
+							</div>
+							<div class="nav-profile-text">
+								<p class="mb-1 text-black">Nuh Alpaslan</p>
+							</div>
+						</a>
+
+					</li>
+					<li class="nav-item d-none d-lg-block full-screen-link">
+						<a class="nav-link">
+							<i class="mdi mdi-fullscreen" id="fullscreen-button"></i>
+						</a>
+					</li>
+					<li class="nav-item nav-logout d-none d-lg-block">
+						<a class="nav-link" href="#">
+							<i class="mdi mdi-power"></i>
+						</a>
+					</li>
+					<li class="nav-item nav-settings d-none d-lg-block">
+						<a class="nav-link" href="#">
+							<i class="mdi mdi-format-line-spacing"></i>
+						</a>
+					</li>
+				</ul>
+				<button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+					<span class="mdi mdi-menu"></span>
+				</button>
+			</div>
+		</nav>
+		<!-- partial -->
+		<div class="container-fluid page-body-wrapper">
+			<!-- partial:partials/_sidebar.html -->
+			<nav class="sidebar sidebar-offcanvas" id="sidebar">
+				<ul class="nav">
+					<li class="nav-item nav-profile">
+						<a href="#" class="nav-link">
+							<div class="nav-profile-image">
+								<img src="~/AdminTheme/assets/images/faces/face1.jpg" alt="profile">
+								<span class="login-status online"></span>
+								<!--change to offline or busy as needed-->
+							</div>
+							<div class="nav-profile-text d-flex flex-column">
+								<span class="font-weight-bold mb-2">Nuh Alpaslan</span>
+								<span class="text-secondary text-small">Bilgisayar Mühendisliği</span>
+								<span class="text-secondary text-small">Bölüm başkanı</span>
+							</div>
+							<i class="mdi mdi-bookmark-check text-success nav-profile-badge"></i>
+						</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/Academician/Panel">
+							<span class="menu-title">Ana menü</span>
+							<i class="mdi mdi-home menu-icon"></i>
+						</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/Academician/Students">
+							<span class="menu-title">Öğrenci ayarları</span>
+							<i class="mdi mdi-contacts menu-icon"></i>
+						</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/Academician/Syllabus">
+							<span class="menu-title">Ders Programı</span>
+							<i class="mdi mdi-contacts menu-icon"></i>
+						</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="pages/icons/mdi.html">
+							<span class="menu-title">İtirazlar</span>
+							<i class="mdi mdi-contacts menu-icon"></i>
+						</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/Academician/Profile">
+							<span class="menu-title">Profil Ayarları</span>
+							<i class="mdi mdi-format-list-bulleted menu-icon"></i>
+						</a>
+					</li>
+				</ul>
+			</nav>
+			<!-- partial -->
+			<div class="main-panel">
+				<div class="content-wrapper">
+					<div class="page-header">
+						<h3 class="page-title">
+							<span class="page-title-icon bg-gradient-primary text-white mr-2">
+								<i class="mdi mdi-home"></i>
+							</span> Dashboard
+						</h3>
+						<nav aria-label="breadcrumb">
+							<ul class="breadcrumb">
+								<li class="breadcrumb-item active" aria-current="page">
+									<span></span>Overview <i class="mdi mdi-alert-circle-outline icon-sm text-primary align-middle"></i>
+								</li>
+							</ul>
+						</nav>
+					</div>
+					<div class="row">
+						<div class="col-12 grid-margin stretch-card">
+							<div class="card">
+								<div class="card-body">
+									<h4 class="card-title">Güncel Ders Programınız</h4>
+									<div class="d-flex">
+										@*<div class="d-flex align-items-center mr-4 text-muted font-weight-light">
+											<i class="mdi mdi-account-outline icon-sm mr-2"></i>
+											<span>jack Menqu</span>
+										</div>*@
+										<div class="d-flex align-items-center text-muted font-weight-light">
+											<i class="mdi mdi-clock icon-sm mr-2"></i>
+											<span>Şubat 12, 2024</span>
+										</div>
+									</div>
+									<div class="row mt-3">
+										<div class="col-12 pr-1">
+											<img src="~/AdminTheme/assets/images/dashboard/img_1.jpg" class="mb-2 mw-100 w-100 rounded" alt="image">
+										</div>
+									</div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- content-wrapper ends -->
+				<!-- partial -->
+			</div>
+			<!-- main-panel ends -->
+		</div>
+		<!-- page-body-wrapper ends -->
+	</div>
+	<!-- container-scroller -->
+	<!-- plugins:js -->
+	<script src="~/AdminTheme/assets/vendors/js/vendor.bundle.base.js"></script>
+	<!-- endinject -->
+	<!-- Plugin js for this page -->
+	<script src="~/AdminTheme/assets/vendors/chart.js/Chart.min.js"></script>
+	<!-- End plugin js for this page -->
+	<!-- inject:js -->
+	<script src="~/AdminTheme/assets/js/off-canvas.js"></script>
+	<script src="~/AdminTheme/assets/js/hoverable-collapse.js"></script>
+	<script src="~/AdminTheme/assets/js/misc.js"></script>
+	<!-- endinject -->
+	<!-- Custom js for this page -->
+	<script src="~/AdminTheme/assets/js/dashboard.js"></script>
+	<script src="~/AdminTheme/assets/js/todolist.js"></script>
+	<!-- End custom js for this page -->
+</body>
+</html>
