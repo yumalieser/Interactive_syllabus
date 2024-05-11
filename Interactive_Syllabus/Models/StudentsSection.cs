@@ -6,11 +6,10 @@ namespace Interactive_Syllabus.Models
     {
         [Key]
         public int StudentsSectionID { get; set; }
-        public int StudentsSectionNumber { get; set; }
+        public string StudentsSectionName { get; set; }
 
-        List<Student> Students { get; set; }
-        List<StudentsClass> StudentsClass { get; set;}
-        List<Academician> Academician { get; set;}
+        public List<Student> Students { get; set; }
+        public List<Academician> Academician { get; set;}
         
     }
 }

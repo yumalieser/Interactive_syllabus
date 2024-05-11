@@ -11,8 +11,7 @@ namespace Interactive_Syllabus.Models
         public string AcademicianSection { get; set;}
         public string AcademicianPassword { get; set;}
         public string AcademicianEMail { get; set;}
-
-        List<StudentsSection> StudentsSections { get; set;}
-        List<StudentsClass> StudentsClass { get; set;}
+        
+        public List<Lesson> Lessons { get; set;}
     }
 }
