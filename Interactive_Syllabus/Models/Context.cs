@@ -9,14 +9,20 @@ namespace Interactive_Syllabus.Models
         //{
         //    optionsBuilder.UseSqlServer("server=ACER-NITRO-ALI\\MSSQLSERVER01; database=SyllabusDB; integrated security=true; TrustServerCertificate=True;");
         //}
-
+        
+        /*
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("server=FURKAN; database=SyllabusDB; integrated security=true; TrustServerCertificate=true");
-        }
+        }*/
+        /*
+		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+		{
+			optionsBuilder.UseSqlServer("server=localhost; database=SyllabusDB; integrated security=true; TrustServerCertificate=True;");
+		}*/
 
 
-        public DbSet<Admin> Admins { get; set; }
+		public DbSet<Admin> Admins { get; set; }
         public DbSet<Student> Students { get; set; }
         public DbSet<Academician> Academicianes { get; set; }
         public DbSet<Syllabus> Syllabus { get; set;}

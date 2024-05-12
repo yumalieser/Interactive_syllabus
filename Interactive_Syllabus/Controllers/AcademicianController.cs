@@ -24,5 +24,9 @@ namespace Interactive_Syllabus.Controllers
 		{
 			return View();
 		}
+		public IActionResult Lessons()
+		{
+			return View();
+		}
 	}
 }
