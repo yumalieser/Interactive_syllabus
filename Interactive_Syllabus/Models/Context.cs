@@ -5,10 +5,16 @@ namespace Interactive_Syllabus.Models
 {
     public class Context:DbContext
     {
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer("server=ACER-NITRO-ALI\\MSSQLSERVER01; database=SyllabusDB; integrated security=true; TrustServerCertificate=True;");
+        //}
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=ACER-NITRO-ALI\\MSSQLSERVER01; database=SyllabusDB; integrated security=true; TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("server=FURKAN; database=SyllabusDB; integrated security=true; TrustServerCertificate=true");
         }
+
 
         public DbSet<Admin> Admins { get; set; }
         public DbSet<Student> Students { get; set; }
