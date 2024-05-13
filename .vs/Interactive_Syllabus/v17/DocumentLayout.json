@@ -1,97 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\",
+  "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\academician\\syllabus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\academician\\syllabus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\academician\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\academician\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\academician\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\academician\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\academician\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\academician\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\academician\\objections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\academician\\objections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\academician\\lessons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\academician\\lessons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\controllers\\academiciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\controllers\\academiciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\models\\academician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\models\\academician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\excalibur\\source\\repos\\t\u00FCbitak\\interactive_syllabus\\interactive_syllabus\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\wwwroot\\profileupdate\\\u0130ndex.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\wwwroot\\profileupdate\\\u0130ndex.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\login\\academician.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\academician.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\login\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\login\\home_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\home_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\login\\resetpassword_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\resetpassword_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\login\\student_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\student_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\login\\academician_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\academician_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\views\\login\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\wwwroot\\navigatonbar\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\resetpassword_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\resetpassword_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\home_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\home_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\models\\academician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\models\\academician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\academician\\syllabus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\academician\\syllabus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\academician\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\academician\\students.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\academician\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\academician\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\academician\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\academician\\panel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\academician\\objections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\academician\\objections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\academician\\lessons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\academician\\lessons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\controllers\\academiciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\controllers\\academiciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\wwwroot\\profileupdate\\\u0130ndex.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\wwwroot\\profileupdate\\\u0130ndex.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\academician.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\academician.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\student_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\student_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\views\\login\\academician_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\views\\login\\academician_en.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\wwwroot\\navigatonbar\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\wwwroot\\navigatonbar\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|c:\\users\\sad\u0131k abdusselam\\desktop\\public class gamemake{ }\\public void coder(int case)\\case2\\c#data\\interactive_syllabus\\interactive_syllabus\\wwwroot\\login_v4\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\interactive_syllabus\\wwwroot\\login_v4\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E3E5CBBC-3D3D-4903-8535-70979B864F46}|Interactive_Syllabus\\Interactive_Syllabus.csproj|solutionrelative:interactive_syllabus\\wwwroot\\login_v4\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -102,11 +114,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
@@ -126,15 +146,102 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Interactive_Syllabus\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:38:50.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Student.cshtml",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Student.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Student.cshtml",
+              "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Student.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAuwEEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T12:22:49.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Models\\Student.cs",
+              "RelativeToolTip": "Interactive_Syllabus\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:20:25.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Models\\Admin.cs",
+              "RelativeToolTip": "Interactive_Syllabus\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:50:39.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Models\\Context.cs",
+              "RelativeToolTip": "Interactive_Syllabus\\Models\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:45:10.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Program.cs",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Program.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Program.cs",
+              "RelativeToolTip": "Interactive_Syllabus\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:47:07.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Interactive_Syllabus\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:05:04.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -145,133 +252,144 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Academician.cs",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Models\\Academician.cs",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Models\\Academician.cs",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Models\\Academician.cs",
-              "RelativeToolTip": "Interactive_Syllabus\\Models\\Academician.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T14:55:10.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Lessons.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Lessons.cshtml",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Academician\\Lessons.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Lessons.cshtml",
-              "RelativeToolTip": "Interactive_Syllabus\\Views\\Academician\\Lessons.cshtml",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAcwIcAAAAWAAAA",
+              "DocumentIndex": 9,
+              "Title": "Home_En.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Home_En.cshtml",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Home_En.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Home_En.cshtml",
+              "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Home_En.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAuwFkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T14:54:38.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Panel.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Panel.cshtml",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Academician\\Panel.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Panel.cshtml",
-              "RelativeToolTip": "Interactive_Syllabus\\Views\\Academician\\Panel.cshtml",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAYwIcAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T13:39:27.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AcademicianController.cs",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Controllers\\AcademicianController.cs",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Controllers\\AcademicianController.cs",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Controllers\\AcademicianController.cs",
-              "RelativeToolTip": "Interactive_Syllabus\\Controllers\\AcademicianController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBwAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:35:00.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Objections.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Objections.cshtml",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Academician\\Objections.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Objections.cshtml",
-              "RelativeToolTip": "Interactive_Syllabus\\Views\\Academician\\Objections.cshtml",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAYwIcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T12:30:07.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Profile.cshtml",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Academician\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Profile.cshtml",
-              "RelativeToolTip": "Interactive_Syllabus\\Views\\Academician\\Profile.cshtml",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAYwG8AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T14:40:48.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Students.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Students.cshtml",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Academician\\Students.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Students.cshtml",
-              "RelativeToolTip": "Interactive_Syllabus\\Views\\Academician\\Students.cshtml",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAYwG0AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T10:04:44.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Syllabus.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Syllabus.cshtml",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Academician\\Syllabus.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Syllabus.cshtml",
-              "RelativeToolTip": "Interactive_Syllabus\\Views\\Academician\\Syllabus.cshtml",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAYwIgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T12:01:40.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T12:39:30.022Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Models\\Context.cs",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Models\\Context.cs",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Models\\Context.cs",
-              "RelativeToolTip": "Interactive_Syllabus\\Models\\Context.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAFAAAA",
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Home.cshtml",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Home.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Home.cshtml",
+              "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Home.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwD8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T09:02:37.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetPassword_En.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\ResetPassword_En.cshtml",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\ResetPassword_En.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\ResetPassword_En.cshtml",
+              "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\ResetPassword_En.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAFIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T11:23:56.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AcademicianController.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Controllers\\AcademicianController.cs",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Controllers\\AcademicianController.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Controllers\\AcademicianController.cs",
+              "RelativeToolTip": "Interactive_Syllabus\\Controllers\\AcademicianController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T13:45:10.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T13:35:00.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Panel.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Panel.cshtml",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Academician\\Panel.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Panel.cshtml",
+              "RelativeToolTip": "Interactive_Syllabus\\Views\\Academician\\Panel.cshtml",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAYwIcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T13:39:27.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Academician.cs",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Models\\Academician.cs",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Models\\Academician.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Models\\Academician.cs",
+              "RelativeToolTip": "Interactive_Syllabus\\Models\\Academician.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:55:10.139Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Syllabus.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Syllabus.cshtml",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Academician\\Syllabus.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Syllabus.cshtml",
+              "RelativeToolTip": "Interactive_Syllabus\\Views\\Academician\\Syllabus.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAYwIgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T12:01:40.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lessons.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Lessons.cshtml",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Academician\\Lessons.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Lessons.cshtml",
+              "RelativeToolTip": "Interactive_Syllabus\\Views\\Academician\\Lessons.cshtml",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAcwIcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T14:54:38.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Objections.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Objections.cshtml",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Academician\\Objections.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Objections.cshtml",
+              "RelativeToolTip": "Interactive_Syllabus\\Views\\Academician\\Objections.cshtml",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAYwIcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T12:30:07.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Academician\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Profile.cshtml",
+              "RelativeToolTip": "Interactive_Syllabus\\Views\\Academician\\Profile.cshtml",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAYwG8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T14:40:48.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Students.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Students.cshtml",
+              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Academician\\Students.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Academician\\Students.cshtml",
+              "RelativeToolTip": "Interactive_Syllabus\\Views\\Academician\\Students.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAYwG0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T10:04:44.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "\u0130ndex.html",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\ProfileUpdate\\\u0130ndex.html",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\ProfileUpdate\\\u0130ndex.html",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\wwwroot\\ProfileUpdate\\\u0130ndex.html",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\ProfileUpdate\\\u0130ndex.html",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\ProfileUpdate\\\u0130ndex.html",
               "RelativeToolTip": "Interactive_Syllabus\\wwwroot\\ProfileUpdate\\\u0130ndex.html",
               "ViewState": "AQIAAIEAAAAAAAAAAAAowKAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -279,11 +397,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Admin\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Admin\\Login.cshtml",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Admin\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Admin\\Login.cshtml",
               "RelativeToolTip": "Interactive_Syllabus\\Views\\Admin\\Login.cshtml",
               "ViewState": "AQIAABYAAAAAAAAAAAAAAC4AAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -291,23 +409,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Interactive_Syllabus\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA4wBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T12:38:50.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Student_En.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Student_En.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Student_En.cshtml",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Student_En.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Student_En.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Student_En.cshtml",
               "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Student_En.cshtml",
               "ViewState": "AQIAACwAAAAAAAAAAIBJwDgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -316,34 +422,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Interactive_Syllabus\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:05:04.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Home_En.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Home_En.cshtml",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Home_En.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Home_En.cshtml",
-              "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Home_En.cshtml",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAuwEMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T12:39:30.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Academician.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
               "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Academician.cshtml",
               "ViewState": "AQIAAFcAAAAAAAAAAAAAAHQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -351,11 +433,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "ResetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\ResetPassword.cshtml",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\ResetPassword.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\ResetPassword.cshtml",
               "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\ResetPassword.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -363,35 +445,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ResetPassword_En.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\ResetPassword_En.cshtml",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\ResetPassword_En.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\ResetPassword_En.cshtml",
-              "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\ResetPassword_En.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAIBJwFIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T11:23:56.61Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Home.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Home.cshtml",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Home.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Home.cshtml",
-              "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Home.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAIBJwEUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T09:02:37.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Academician_En.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Academician_En.cshtml",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Academician_En.cshtml",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Academician_En.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Academician_En.cshtml",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Academician_En.cshtml",
               "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Academician_En.cshtml",
               "ViewState": "AQIAADkAAAAAAAAAAAAuwFAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -399,23 +457,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Student.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Student.cshtml",
-              "RelativeDocumentMoniker": "Interactive_Syllabus\\Views\\Login\\Student.cshtml",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Views\\Login\\Student.cshtml",
-              "RelativeToolTip": "Interactive_Syllabus\\Views\\Login\\Student.cshtml",
-              "ViewState": "AQIAAE8AAAAAAAAAAIBJwHYAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T12:22:49.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
               "RelativeToolTip": "Interactive_Syllabus\\wwwroot\\NavigatonBar\\CSS\\styles.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -423,11 +469,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "main.css",
-              "DocumentMoniker": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\Login_v4\\css\\main.css",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\Login_v4\\css\\main.css",
               "RelativeDocumentMoniker": "Interactive_Syllabus\\wwwroot\\Login_v4\\css\\main.css",
-              "ToolTip": "C:\\Users\\Sad\u0131k Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\Login_v4\\css\\main.css",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\source\\repos\\t\u00FCbitak\\Interactive_syllabus\\Interactive_Syllabus\\wwwroot\\Login_v4\\css\\main.css",
               "RelativeToolTip": "Interactive_Syllabus\\wwwroot\\Login_v4\\css\\main.css",
               "ViewState": "AQIAAK0BAAAAAAAAAIBJwJoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
