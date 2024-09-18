@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Interactive_Syllabus.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Interactive_Syllabus.Controllers
 {
 	public class AcademicianController : Controller
 	{
+		Context _context = new Context();
 		public IActionResult Panel()
 		{
 			return View();
@@ -12,9 +14,11 @@ namespace Interactive_Syllabus.Controllers
 		{
 			return View();
 		}
-		public IActionResult Students()
+        [HttpGet]
+        public IActionResult Students()
 		{
-			return View();
+			var ogrenciListele = _context.Students.ToList();
+			return View(ogrenciListele);
 		}
 		public IActionResult Syllabus()
 		{
@@ -24,9 +28,11 @@ namespace Interactive_Syllabus.Controllers
 		{
 			return View();
 		}
+		[HttpGet]
 		public IActionResult Lessons()
 		{
-			return View();
+			var dersListele = _context.Lessons.ToList();
+			return View(dersListele);
 		}
 	}
 }

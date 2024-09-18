@@ -6,28 +6,11 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Interactive_Syllabus.Migrations
 {
     /// <inheritdoc />
-    public partial class add_database_v1 : Migration
+    public partial class upd_database : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.CreateTable(
-                name: "Academicianes",
-                columns: table => new
-                {
-                    AcademicianID = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    AcademicianName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    AcademicianDescription = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    AcademicianSection = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    AcademicianPassword = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    AcademicianEMail = table.Column<string>(type: "nvarchar(max)", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Academicianes", x => x.AcademicianID);
-                });
-
             migrationBuilder.CreateTable(
                 name: "Admins",
                 columns: table => new
@@ -71,74 +54,26 @@ namespace Interactive_Syllabus.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Lessons",
+                name: "Academicianes",
                 columns: table => new
                 {
-                    LessonID = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    LessonName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    LessonDescription = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    LessonCredit = table.Column<int>(type: "int", nullable: false),
-                    LessonAKTS = table.Column<int>(type: "int", nullable: false),
                     AcademicianID = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    AcademicianName = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    AcademicianDescription = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    AcademicianSection = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    AcademicianPassword = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    AcademicianEMail = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    StudentsSectionID = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Lessons", x => x.LessonID);
+                    table.PrimaryKey("PK_Academicianes", x => x.AcademicianID);
                     table.ForeignKey(
-                        name: "FK_Lessons_Academicianes_AcademicianID",
-                        column: x => x.AcademicianID,
-                        principalTable: "Academicianes",
-                        principalColumn: "AcademicianID",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "AcademicianStudentsClass",
-                columns: table => new
-                {
-                    AcademicianID = table.Column<int>(type: "int", nullable: false),
-                    StudentsClassID = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_AcademicianStudentsClass", x => new { x.AcademicianID, x.StudentsClassID });
-                    table.ForeignKey(
-                        name: "FK_AcademicianStudentsClass_Academicianes_AcademicianID",
-                        column: x => x.AcademicianID,
-                        principalTable: "Academicianes",
-                        principalColumn: "AcademicianID",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_AcademicianStudentsClass_StudentsClasses_StudentsClassID",
-                        column: x => x.StudentsClassID,
-                        principalTable: "StudentsClasses",
-                        principalColumn: "StudentsClassID",
-                        onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "AcademicianStudentsSection",
-                columns: table => new
-                {
-                    AcademicianID = table.Column<int>(type: "int", nullable: false),
-                    StudentsSectionsStudentsSectionID = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_AcademicianStudentsSection", x => new { x.AcademicianID, x.StudentsSectionsStudentsSectionID });
-                    table.ForeignKey(
-                        name: "FK_AcademicianStudentsSection_Academicianes_AcademicianID",
-                        column: x => x.AcademicianID,
-                        principalTable: "Academicianes",
-                        principalColumn: "AcademicianID",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_AcademicianStudentsSection_StudentsSections_StudentsSectionsStudentsSectionID",
-                        column: x => x.StudentsSectionsStudentsSectionID,
+                        name: "FK_Academicianes_StudentsSections_StudentsSectionID",
+                        column: x => x.StudentsSectionID,
                         principalTable: "StudentsSections",
-                        principalColumn: "StudentsSectionID",
-                        onDelete: ReferentialAction.Cascade);
+                        principalColumn: "StudentsSectionID");
                 });
 
             migrationBuilder.CreateTable(
@@ -172,26 +107,24 @@ namespace Interactive_Syllabus.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "StudentsClassStudentsSection",
+                name: "Lessons",
                 columns: table => new
                 {
-                    StudentsClassID = table.Column<int>(type: "int", nullable: false),
-                    StudentsSectionsStudentsSectionID = table.Column<int>(type: "int", nullable: false)
+                    LessonID = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    LessonName = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    LessonDescription = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    LessonCredit = table.Column<int>(type: "int", nullable: false),
+                    LessonAKTS = table.Column<int>(type: "int", nullable: false),
+                    AcademicianID = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_StudentsClassStudentsSection", x => new { x.StudentsClassID, x.StudentsSectionsStudentsSectionID });
+                    table.PrimaryKey("PK_Lessons", x => x.LessonID);
                     table.ForeignKey(
-                        name: "FK_StudentsClassStudentsSection_StudentsClasses_StudentsClassID",
-                        column: x => x.StudentsClassID,
-                        principalTable: "StudentsClasses",
-                        principalColumn: "StudentsClassID",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_StudentsClassStudentsSection_StudentsSections_StudentsSectionsStudentsSectionID",
-                        column: x => x.StudentsSectionsStudentsSectionID,
-                        principalTable: "StudentsSections",
-                        principalColumn: "StudentsSectionID",
+                        name: "FK_Lessons_Academicianes_AcademicianID",
+                        column: x => x.AcademicianID,
+                        principalTable: "Academicianes",
+                        principalColumn: "AcademicianID",
                         onDelete: ReferentialAction.Cascade);
                 });
 
@@ -206,7 +139,7 @@ namespace Interactive_Syllabus.Migrations
                     SyllabusCreateDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     StudentsClassID = table.Column<int>(type: "int", nullable: false),
                     StudentsSectionID = table.Column<int>(type: "int", nullable: false),
-                    LessonID = table.Column<int>(type: "int", nullable: false)
+                    LessonID = table.Column<string>(type: "nvarchar(450)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -232,14 +165,9 @@ namespace Interactive_Syllabus.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_AcademicianStudentsClass_StudentsClassID",
-                table: "AcademicianStudentsClass",
-                column: "StudentsClassID");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_AcademicianStudentsSection_StudentsSectionsStudentsSectionID",
-                table: "AcademicianStudentsSection",
-                column: "StudentsSectionsStudentsSectionID");
+                name: "IX_Academicianes_StudentsSectionID",
+                table: "Academicianes",
+                column: "StudentsSectionID");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Lessons_AcademicianID",
@@ -255,11 +183,6 @@ namespace Interactive_Syllabus.Migrations
                 name: "IX_Students_StudentsSectionID",
                 table: "Students",
                 column: "StudentsSectionID");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_StudentsClassStudentsSection_StudentsSectionsStudentsSectionID",
-                table: "StudentsClassStudentsSection",
-                column: "StudentsSectionsStudentsSectionID");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Syllabus_LessonID",
@@ -281,19 +204,10 @@ namespace Interactive_Syllabus.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "AcademicianStudentsClass");
-
-            migrationBuilder.DropTable(
-                name: "AcademicianStudentsSection");
-
-            migrationBuilder.DropTable(
                 name: "Admins");
 
             migrationBuilder.DropTable(
                 name: "Students");
-
-            migrationBuilder.DropTable(
-                name: "StudentsClassStudentsSection");
 
             migrationBuilder.DropTable(
                 name: "Syllabus");
@@ -305,10 +219,10 @@ namespace Interactive_Syllabus.Migrations
                 name: "StudentsClasses");
 
             migrationBuilder.DropTable(
-                name: "StudentsSections");
+                name: "Academicianes");
 
             migrationBuilder.DropTable(
-                name: "Academicianes");
+                name: "StudentsSections");
         }
     }
 }

@@ -90,11 +90,8 @@ namespace Interactive_Syllabus.Migrations
 
             modelBuilder.Entity("Interactive_Syllabus.Models.Lesson", b =>
                 {
-                    b.Property<int>("LessonID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("LessonID"));
+                    b.Property<string>("LessonID")
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<int>("AcademicianID")
                         .HasColumnType("int");
@@ -202,8 +199,9 @@ namespace Interactive_Syllabus.Migrations
                     b.Property<int>("LessonDay")
                         .HasColumnType("int");
 
-                    b.Property<int>("LessonID")
-                        .HasColumnType("int");
+                    b.Property<string>("LessonID")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<int>("LessonTime")
                         .HasColumnType("int");

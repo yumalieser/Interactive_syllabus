@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Interactive_Syllabus.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20240511220028_add_database_v1")]
-    partial class add_database_v1
+    [Migration("20240918212903_upd_database")]
+    partial class upd_database
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -24,36 +24,6 @@ namespace Interactive_Syllabus.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("AcademicianStudentsClass", b =>
-                {
-                    b.Property<int>("AcademicianID")
-                        .HasColumnType("int");
-
-                    b.Property<int>("StudentsClassID")
-                        .HasColumnType("int");
-
-                    b.HasKey("AcademicianID", "StudentsClassID");
-
-                    b.HasIndex("StudentsClassID");
-
-                    b.ToTable("AcademicianStudentsClass");
-                });
-
-            modelBuilder.Entity("AcademicianStudentsSection", b =>
-                {
-                    b.Property<int>("AcademicianID")
-                        .HasColumnType("int");
-
-                    b.Property<int>("StudentsSectionsStudentsSectionID")
-                        .HasColumnType("int");
-
-                    b.HasKey("AcademicianID", "StudentsSectionsStudentsSectionID");
-
-                    b.HasIndex("StudentsSectionsStudentsSectionID");
-
-                    b.ToTable("AcademicianStudentsSection");
-                });
 
             modelBuilder.Entity("Interactive_Syllabus.Models.Academician", b =>
                 {
@@ -82,7 +52,12 @@ namespace Interactive_Syllabus.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("StudentsSectionID")
+                        .HasColumnType("int");
+
                     b.HasKey("AcademicianID");
+
+                    b.HasIndex("StudentsSectionID");
 
                     b.ToTable("Academicianes");
                 });
@@ -118,11 +93,8 @@ namespace Interactive_Syllabus.Migrations
 
             modelBuilder.Entity("Interactive_Syllabus.Models.Lesson", b =>
                 {
-                    b.Property<int>("LessonID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("LessonID"));
+                    b.Property<string>("LessonID")
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<int>("AcademicianID")
                         .HasColumnType("int");
@@ -230,8 +202,9 @@ namespace Interactive_Syllabus.Migrations
                     b.Property<int>("LessonDay")
                         .HasColumnType("int");
 
-                    b.Property<int>("LessonID")
-                        .HasColumnType("int");
+                    b.Property<string>("LessonID")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<int>("LessonTime")
                         .HasColumnType("int");
@@ -256,55 +229,17 @@ namespace Interactive_Syllabus.Migrations
                     b.ToTable("Syllabus");
                 });
 
-            modelBuilder.Entity("StudentsClassStudentsSection", b =>
+            modelBuilder.Entity("Interactive_Syllabus.Models.Academician", b =>
                 {
-                    b.Property<int>("StudentsClassID")
-                        .HasColumnType("int");
-
-                    b.Property<int>("StudentsSectionsStudentsSectionID")
-                        .HasColumnType("int");
-
-                    b.HasKey("StudentsClassID", "StudentsSectionsStudentsSectionID");
-
-                    b.HasIndex("StudentsSectionsStudentsSectionID");
-
-                    b.ToTable("StudentsClassStudentsSection");
-                });
-
-            modelBuilder.Entity("AcademicianStudentsClass", b =>
-                {
-                    b.HasOne("Interactive_Syllabus.Models.Academician", null)
-                        .WithMany()
-                        .HasForeignKey("AcademicianID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Interactive_Syllabus.Models.StudentsClass", null)
-                        .WithMany()
-                        .HasForeignKey("StudentsClassID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
-            modelBuilder.Entity("AcademicianStudentsSection", b =>
-                {
-                    b.HasOne("Interactive_Syllabus.Models.Academician", null)
-                        .WithMany()
-                        .HasForeignKey("AcademicianID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("Interactive_Syllabus.Models.StudentsSection", null)
-                        .WithMany()
-                        .HasForeignKey("StudentsSectionsStudentsSectionID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .WithMany("Academician")
+                        .HasForeignKey("StudentsSectionID");
                 });
 
             modelBuilder.Entity("Interactive_Syllabus.Models.Lesson", b =>
                 {
                     b.HasOne("Interactive_Syllabus.Models.Academician", "academician")
-                        .WithMany()
+                        .WithMany("Lessons")
                         .HasForeignKey("AcademicianID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -358,19 +293,9 @@ namespace Interactive_Syllabus.Migrations
                     b.Navigation("StudentsSection");
                 });
 
-            modelBuilder.Entity("StudentsClassStudentsSection", b =>
+            modelBuilder.Entity("Interactive_Syllabus.Models.Academician", b =>
                 {
-                    b.HasOne("Interactive_Syllabus.Models.StudentsClass", null)
-                        .WithMany()
-                        .HasForeignKey("StudentsClassID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Interactive_Syllabus.Models.StudentsSection", null)
-                        .WithMany()
-                        .HasForeignKey("StudentsSectionsStudentsSectionID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.Navigation("Lessons");
                 });
 
             modelBuilder.Entity("Interactive_Syllabus.Models.StudentsClass", b =>
@@ -380,6 +305,8 @@ namespace Interactive_Syllabus.Migrations
 
             modelBuilder.Entity("Interactive_Syllabus.Models.StudentsSection", b =>
                 {
+                    b.Navigation("Academician");
+
                     b.Navigation("Students");
                 });
 #pragma warning restore 612, 618
