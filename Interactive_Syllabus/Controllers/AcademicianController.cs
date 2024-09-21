@@ -1,8 +1,12 @@
 ﻿using Interactive_Syllabus.Models;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Interactive_Syllabus.Controllers
 {
+	[Authorize(Policy = "AcademicianOnly")]
 	public class AcademicianController : Controller
 	{
 		Context _context = new Context();
@@ -33,6 +37,11 @@ namespace Interactive_Syllabus.Controllers
 		{
 			var dersListele = _context.Lessons.ToList();
 			return View(dersListele);
+		}
+		public async Task<IActionResult> Logout()
+		{
+			await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+			return RedirectToAction("Home", "Login");
 		}
 	}
 }

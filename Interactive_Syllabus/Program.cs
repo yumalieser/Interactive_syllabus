@@ -11,14 +11,20 @@ builder.Services.AddControllersWithViews();
 //    x.LoginPath = "/Login/Home/";
 //});
 
-builder.Services.AddAuthentication
-	(CookieAuthenticationDefaults.AuthenticationScheme)
-		.AddCookie(options =>
-		{
-			options.Cookie.Name = ".NetCoreMvc.auth";
-			options.LoginPath = "/Login/Home/";
-			options.AccessDeniedPath = "/Login/Home/";
-		});
+// Cookie Authentication'ý ekle
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+	.AddCookie(options =>
+	{
+		options.LoginPath = "/Login/Home"; // Varsayýlan olarak öðrenci login yolu
+		options.AccessDeniedPath = "/Home/AccessDenied"; // Yetkisiz eriþim için yönlendirme
+	});
+
+// Authorization ayarlarý
+builder.Services.AddAuthorization(options =>
+{
+	options.AddPolicy("StudentOnly", policy => policy.RequireClaim("UserType", "Student"));
+	options.AddPolicy("AcademicianOnly", policy => policy.RequireClaim("UserType", "Academician"));
+});
 
 var app = builder.Build();
 

@@ -1,6 +1,4 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@using System.Security.Claims;
 @{
 	Layout = null;
 }
@@ -56,20 +54,21 @@
 
 			<div class="container-login100">
 			<div class="wrap-login100 p-l-55 p-r-55 p-t-65 p-b-54">
-				<form class="login100-form validate-form">
+					<form class="login100-form" asp-controller="Login" asp-action="Student" method="post" enctype="multipart/form-data">
+
 					<span class="login100-form-title p-b-49">
 						Öğrenci Girişi
 					</span>
 
 						<div class="wrap-input100 validate-input m-b-23" data-validate="Öğrenci Numarası">
 						<span class="label-input100">Öğrenci Numarası</span>
-							<input class="input100" type="text" name="StudentName" placeholder="Öğrenci Numaranızı Giriniz">
+							<input class="input100" type="text" name="email" placeholder="Öğrenci Numaranızı Giriniz">
 						<span class="focus-input100" data-symbol="&#xf206;"></span>
 					</div>
 
 						<div class="wrap-input100 validate-input" data-validate="Öğrenci Şifresi">
 						<span class="label-input100">Şifre</span>
-							<input class="input100" type="password" name="StudentPassword" placeholder="Şifrenizi Giriniz">
+							<input class="input100" type="password" name="password" placeholder="Şifrenizi Giriniz">
  						<span class="focus-input100" data-symbol="&#xf190;"></span>
 					</div>
 
@@ -83,8 +82,7 @@
 					<div class="container-login100-form-btn">
 						<div class="wrap-login100-form-btn">
 							<div class="login100-form-bgbtn"></div>
-							<button class="login100-form-btn" formaction="/Student/Panel">
-
+							<button class="login100-form-btn" type="submit">
 								Giriş Yap
 							</button>
 						</div>

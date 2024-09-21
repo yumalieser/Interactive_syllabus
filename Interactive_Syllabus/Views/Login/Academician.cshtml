@@ -1,6 +1,5 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@using System.Security.Claims;
+
 @{
 	Layout = null;
 }
@@ -56,7 +55,7 @@
 
 			<div class="container-login100">
 				<div class="wrap-login100 p-l-55 p-r-55 p-t-65 p-b-54">
-					<form class="login100-form validate-form" method="post">
+					<form class="login100-form" asp-controller="Login" asp-action="Academician" method="post" enctype="multipart/form-data">
 						<span class="login100-form-title p-b-49">
 						Akademisyen Girişi
 					</span>
@@ -82,7 +81,7 @@
 					<div class="container-login100-form-btn">
 						<div class="wrap-login100-form-btn">
 							<div class="login100-form-bgbtn"></div>
-								<button class="login100-form-btn" formaction="/Academician/Panel">
+								<button class="login100-form-btn" type="submit">
 									Giriş Yap
 							</button>
 						</div>

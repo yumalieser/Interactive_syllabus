@@ -9,7 +9,7 @@ namespace Interactive_Syllabus.Models
         public string StudentName { get; set;}
         public string StudentSurname { get; set;}
         public string StudentEmail { get; set;}
-        public int StudentPassword { get; set;}
+        public string StudentPassword { get; set;}
         public StudentsClass StudentClass { get; set;}
         public StudentsSection StudentsSection { get; set;}
     }

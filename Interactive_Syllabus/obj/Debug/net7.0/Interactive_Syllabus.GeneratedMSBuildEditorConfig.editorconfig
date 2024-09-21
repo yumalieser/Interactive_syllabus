@@ -96,8 +96,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY2FkZW1pY2lhbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/malie/Desktop/DERS/3.SINIF/Web Programlama/Interactive_syllabus/Interactive_Syllabus/Views/Shared/_StudentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHVkZW50TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/malie/Desktop/DERS/3.SINIF/Web Programlama/Interactive_syllabus/Interactive_Syllabus/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/malie/Desktop/DERS/3.SINIF/Web Programlama/Interactive_syllabus/Interactive_Syllabus/Views/Student/Lessons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxMZXNzb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/malie/Desktop/DERS/3.SINIF/Web Programlama/Interactive_syllabus/Interactive_Syllabus/Views/Student/Objections.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxPYmplY3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/malie/Desktop/DERS/3.SINIF/Web Programlama/Interactive_syllabus/Interactive_Syllabus/Views/Student/Panel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxQYW5lbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/malie/Desktop/DERS/3.SINIF/Web Programlama/Interactive_syllabus/Interactive_Syllabus/Views/Student/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/malie/Desktop/DERS/3.SINIF/Web Programlama/Interactive_syllabus/Interactive_Syllabus/Views/Student/Syllabus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTeWxsYWJ1cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/malie/Desktop/DERS/3.SINIF/Web Programlama/Interactive_syllabus/Interactive_Syllabus/Views/_ViewImports.cshtml]
