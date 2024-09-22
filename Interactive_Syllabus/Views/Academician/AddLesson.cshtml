@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewData["Title"] = "AddLesson";
+    Layout = "~/Views/Shared/_AcademicianLayout.cshtml";
+	var Academicianes = (List<Academician>)ViewBag.Academicianes; // Akademisyenleri ViewBag üzerinden alıyoruz
+}
+
+<div class="main-panel">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css" integrity="sha256-2XFplPlrFClt0bIdPgpz8H7ojnk10H69xRqd9+uTShA=" crossorigin="anonymous" />
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+
+				<div class="my-5">
+					<h3>Ders Ekle</h3>
+					<hr>
+				</div>
+
+				<form class="file-upload">
+					<div class="row mb-5 gx-5">
+
+						<div class="col-xxl-8 mb-5 mb-xxl-0">
+							<div class="bg-secondary-soft px-4 py-5 rounded">
+								<div class="row g-3">
+
+									<div class="col-md-6 mb-4">
+										<label class="form-label">Ders Kodu</label>
+										<input type="text" class="form-control" id="LessonID">
+									</div>
+
+									<div class="col-md-6 mb-4">
+										<label class="form-label">Ders Adı</label>
+										<input type="text" class="form-control" id="LessonName">
+									</div>
+
+									<div class="col-md-6 mb-4">
+										<label for="inputEmail4" class="form-label">Ders Kredisi</label>
+										<input type="text" class="form-control" id="LessonCredit">
+									</div>
+
+									<div class="col-md-6 mb-4">
+										<label for="exampleInputPassword2" class="form-label">Ders AKTS Değeri</label>
+										<input type="text" class="form-control" id="LessonAKTS">
+									</div>
+
+									<div class="col-md-6 mb-4">
+										<label class="form-label">İlgili Akademisyen</label><br />
+										<select class="btn btn-outline-secondary dropdown-toggle" id="LessonAcademician" name="LessonAcademician">
+											<option selected disabled>Akademisyen Seçin</option>
+											@foreach (var item in ViewBag.Academicianes)
+											{
+												<option value="@item.AcademicianID">@item.AcademicianName</option>
+											}
+										</select>
+									</div>
+									<div class="col-md-6">
+										<label class="form-label">Dersin Açıklaması</label>
+										<input type="text" class="form-control" id="LessonAcademician">
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+					<div class="gap-3 d-md-flex justify-content-md-end text-center">
+						<button type="button" class="btn btn-primary btn-lg">Ders Ekle</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- partial -->
+</div>
+

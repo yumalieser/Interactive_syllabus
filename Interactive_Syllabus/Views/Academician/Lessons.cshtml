@@ -5,68 +5,73 @@
 }
 
 
-	<!-- partial:partials/_sidebar.html -->
-	<!-- partial -->
-	<div class="main-panel">
-		<div class="content-wrapper">
-			<div class="page-header">
-				<h3 class="page-title">
-					<span class="page-title-icon bg-gradient-primary text-white mr-2">
-						<i class="mdi mdi-home"></i>
-					</span> Dersler
-				</h3>
-				<nav aria-label="breadcrumb">
-					<ul class="breadcrumb">
-						<li class="breadcrumb-item active" aria-current="page">
-							<span></span>Overview <i class="mdi mdi-alert-circle-outline icon-sm text-primary align-middle"></i>
-						</li>
-					</ul>
-				</nav>
-			</div>
-			<div class="col-md-16 grid-margin stretch-card">
-				<div class="card">
-					<div class="card-body">
-						<h4 class="card-title">Ders Detayları</h4>
-						<div class="search-field d-none d-md-block">
-							<form class="d-flex align-items-center h-100" action="#">
-								<div class="input-group">
-									<div class="input-group-prepend bg-transparent">
-										<i class="input-group-text border-0 mdi mdi-magnify"></i>
-									</div>
-									<input type="text" class="form-control bg-transparent border-0" placeholder="Ders ara">
-								</div>
-							</form>
-						</div>
-						<div class="table-responsive">
-							<table class="table">
-								<thead>
-									<tr>
-										<th> Ders Kodu </th>
-										<th> Ad </th>
-										<th> Kredi </th>
-										<th> AKTS </th>
-									</tr>
-								</thead>
-								<tbody>
-									@foreach (var item in Model)
-									{
-										<tr>
-											<td>@item.LessonID</td>
-											<td>@item.LessonName</td>
-											<td>@item.LessonCredit</td>
-											<td>@item.LessonAKTS</td>
-											@*<td><a href="/Admin/BlogSil/@item.BlogID" class="btn btn-danger">Sil</a></td>
-											<td><a href="/Admin/BlogGetir/@item.BlogID" class="btn btn-warning">Düzenle</a></td>*@
-										</tr>
-									}
-								</tbody>
-							</table>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- content-wrapper ends -->
-	</div>
-	<!-- main-panel ends -->
-
+<!-- partial:partials/_sidebar.html -->
+<!-- partial -->
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="page-header">
+            <h3 class="page-title">
+                <span class="page-title-icon bg-gradient-primary text-white mr-2">
+                    <i class="mdi mdi-home"></i>
+                </span> Dersler
+            </h3>
+            <nav aria-label="breadcrumb">
+                <ul class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <span></span>Overview <i class="mdi mdi-alert-circle-outline icon-sm text-primary align-middle"></i>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div class="col-md-16 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Ders Detayları</h4>
+                    <div class="search-field d-none d-md-block">
+                        <form class="d-flex align-items-center h-100" action="#">
+                            <div class="input-group">
+                                <div class="input-group-prepend bg-transparent">
+                                    <i class="input-group-text border-0 mdi mdi-magnify"></i>
+                                </div>
+                                <input type="text" class="form-control bg-transparent border-0" placeholder="Ders ara">
+                            </div>
+                        </form>
+                    </div>
+                    <br />
+                    <br />
+                    <a class="add btn btn-gradient-primary font-weight-bold" asp-controller="Academician" asp-action="AddLesson">Ders Ekle</a> &nbsp;
+                    <a class="add btn btn-gradient-success font-weight-bold" asp-controller="Academician" asp-action="AddMultipleLesson">Toplu Ders Ekle</a>
+                    <br />
+                    <br />
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th> Ders Kodu </th>
+                                    <th> Ad </th>
+                                    <th> Kredi </th>
+                                    <th> AKTS </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.LessonID</td>
+                                        <td>@item.LessonName</td>
+                                        <td>@item.LessonCredit</td>
+                                        <td>@item.LessonAKTS</td>
+                                        @*<td><a href="/Admin/BlogSil/@item.BlogID" class="btn btn-danger">Sil</a></td>
+                                    <td><a href="/Admin/BlogGetir/@item.BlogID" class="btn btn-warning">Düzenle</a></td>*@
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- content-wrapper ends -->
+</div>
+<!-- main-panel ends -->

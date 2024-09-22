@@ -155,6 +155,30 @@ namespace Interactive_Syllabus.Migrations
                     b.ToTable("Students");
                 });
 
+            modelBuilder.Entity("Interactive_Syllabus.Models.StudentFailedLessons", b =>
+                {
+                    b.Property<int>("StudentFailedLessonsID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("StudentFailedLessonsID"));
+
+                    b.Property<string>("LessonID")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("StudentID")
+                        .HasColumnType("int");
+
+                    b.HasKey("StudentFailedLessonsID");
+
+                    b.HasIndex("LessonID");
+
+                    b.HasIndex("StudentID");
+
+                    b.ToTable("StudentFailedLessons");
+                });
+
             modelBuilder.Entity("Interactive_Syllabus.Models.StudentsClass", b =>
                 {
                     b.Property<int>("StudentsClassID")
@@ -262,6 +286,25 @@ namespace Interactive_Syllabus.Migrations
                     b.Navigation("StudentClass");
 
                     b.Navigation("StudentsSection");
+                });
+
+            modelBuilder.Entity("Interactive_Syllabus.Models.StudentFailedLessons", b =>
+                {
+                    b.HasOne("Interactive_Syllabus.Models.Lesson", "Lesson")
+                        .WithMany()
+                        .HasForeignKey("LessonID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Interactive_Syllabus.Models.Student", "Student")
+                        .WithMany()
+                        .HasForeignKey("StudentID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Lesson");
+
+                    b.Navigation("Student");
                 });
 
             modelBuilder.Entity("Interactive_Syllabus.Models.Syllabus", b =>

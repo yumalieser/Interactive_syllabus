@@ -25,9 +25,10 @@ namespace Interactive_Syllabus.Models
         public DbSet<Admin> Admins { get; set; }
         public DbSet<Student> Students { get; set; }
         public DbSet<Academician> Academicianes { get; set; }
-        public DbSet<Syllabus> Syllabus { get; set;}
-        public DbSet<Lesson> Lessons { get; set;}
-        public DbSet<StudentsClass> StudentsClasses { get; set;}
-        public DbSet<StudentsSection> StudentsSections { get; set;}
+        public DbSet<Syllabus> Syllabus { get; set; }
+        public DbSet<Lesson> Lessons { get; set; }
+        public DbSet<StudentsClass> StudentsClasses { get; set; }
+        public DbSet<StudentsSection> StudentsSections { get; set; }
+        public DbSet<StudentFailedLessons> StudentFailedLessons { get; set;}
     }
 }

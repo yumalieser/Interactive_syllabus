@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewData["Title"] = "AddStudent";
+    Layout = "~/Views/Shared/_AcademicianLayout.cshtml";
+	var StudentClass = (List<StudentsClass>)ViewBag.Class; // Sınıfları ViewBag üzerinden alıyoruz
+	var StudentSections = (List<StudentsSection>)ViewBag.Sections; // Bölümleri ViewBag üzerinden alıyoruz
+}
+<div class="main-panel">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css" integrity="sha256-2XFplPlrFClt0bIdPgpz8H7ojnk10H69xRqd9+uTShA=" crossorigin="anonymous" />
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+
+				<div class="my-5">
+					<h3>Öğrenci Ekle</h3>
+					<hr>
+				</div>
+
+				<form class="file-upload">
+					<div class="row mb-5 gx-5">
+
+						<div class="col-xxl-8 mb-5 mb-xxl-0">
+							<div class="bg-secondary-soft px-4 py-5 rounded">
+								<div class="row g-3">
+
+									<div class="col-md-6 mb-4">
+										<label class="form-label">İsim</label>
+										<input type="text" class="form-control" id="Name">
+									</div>
+
+									<div class="col-md-6 mb-4">
+										<label class="form-label">Soyisim</label>
+										<input type="text" class="form-control" id="Surname">
+									</div>
+
+									<div class="col-md-6 mb-4">
+										<label for="inputEmail4" class="form-label">Mail Adresi</label>
+										<input type="email" class="form-control" id="Email">
+									</div>
+
+									<div class="col-md-6 mb-4">
+										<label for="exampleInputPassword2" class="form-label">Yeni Şifre</label>
+										<input type="password" class="form-control" id="Password">
+									</div>
+
+									<div class="col-md-6 mb-4">
+										<label class="form-label">Öğrencinin Sınıfı</label><br />
+										<select class="btn btn-outline-secondary dropdown-toggle" id="StudentClass" name="StudentClass">
+											<option selected disabled>Sınıf Seçin</option>
+											@foreach (var item in ViewBag.Class)
+											{
+												<option value="@item.StudentsClassID">@item.StudentsClassName</option>
+											}
+										</select>
+									</div>
+
+									<div class="col-md-6 mb-4">
+										<label class="form-label">Öğrencinin Bölümü</label><br />
+										<select class="btn btn-outline-secondary dropdown-toggle" id="StudentSection" name="StudentSection">
+											<option selected disabled>Bölüm Seçin</option>
+											@foreach (var item in ViewBag.Sections)
+											{
+												<option value="@item.StudentsSectionID">@item.StudentsSectionName</option>
+											}
+										</select>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+					<div class="gap-3 d-md-flex justify-content-md-end text-center">
+						<button type="button" class="btn btn-primary btn-lg">Öğrenci Ekle</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- partial -->
+</div>
