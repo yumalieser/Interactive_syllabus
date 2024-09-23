@@ -11,6 +11,10 @@ namespace Interactive_Syllabus.Models
         public int LessonCredit { get; set; }
         public int LessonAKTS { get; set; }
 
-        public Academician academician { get; set; }
-    }
+		// Foreign key
+		public int AcademicianID { get; set; }
+
+		// Navigation property
+		public Academician Academician { get; set; } // Ders ile ilişkilendirilen akademisyen
+	}
 }

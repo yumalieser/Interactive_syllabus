@@ -3,6 +3,22 @@
     ViewData["Title"] = "AddMultipleStudent";
     Layout = "~/Views/Shared/_AcademicianLayout.cshtml";
 }
-
-<h1>Toplu Öğrenci Ekle</h1>
+<div class="container">
+    <br />
+    <br />
+    <br />
+    <h3>Toplu Öğrenci Ekle</h3>
+    <br />
+    <br />
+    <br />
+    <form asp-action="AddMultipleStudent" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="fileUpload">Excel Dosyası Seçin</label>
+            <input type="file" class="form-control" name="fileUpload" id="fileUpload" accept=".xls,.xlsx" required />
+        </div>
+        <br />
+        <br />
+        <button type="submit" class="btn btn-primary">Yükle</button>
+    </form>
+</div>
 

@@ -15,8 +15,8 @@
 					<h3>Ders Ekle</h3>
 					<hr>
 				</div>
-
-				<form class="file-upload">
+				 
+				<form class="file-upload" asp-action="AddLesson" method="post">
 					<div class="row mb-5 gx-5">
 
 						<div class="col-xxl-8 mb-5 mb-xxl-0">
@@ -25,27 +25,27 @@
 
 									<div class="col-md-6 mb-4">
 										<label class="form-label">Ders Kodu</label>
-										<input type="text" class="form-control" id="LessonID">
+										<input type="text" class="form-control" name="LessonID" id="LessonID">
 									</div>
 
 									<div class="col-md-6 mb-4">
 										<label class="form-label">Ders Adı</label>
-										<input type="text" class="form-control" id="LessonName">
+										<input type="text" class="form-control" name="LessonName" id="LessonName">
 									</div>
 
 									<div class="col-md-6 mb-4">
 										<label for="inputEmail4" class="form-label">Ders Kredisi</label>
-										<input type="text" class="form-control" id="LessonCredit">
+										<input type="text" class="form-control" name="LessonCredit" id="LessonCredit">
 									</div>
 
 									<div class="col-md-6 mb-4">
 										<label for="exampleInputPassword2" class="form-label">Ders AKTS Değeri</label>
-										<input type="text" class="form-control" id="LessonAKTS">
+										<input type="text" class="form-control" name="LessonAKTS" id="LessonAKTS">
 									</div>
 
 									<div class="col-md-6 mb-4">
 										<label class="form-label">İlgili Akademisyen</label><br />
-										<select class="btn btn-outline-secondary dropdown-toggle" id="LessonAcademician" name="LessonAcademician">
+										<select class="btn btn-outline-secondary dropdown-toggle" id="LessonAcademician" name="LessonAcademicianID">
 											<option selected disabled>Akademisyen Seçin</option>
 											@foreach (var item in ViewBag.Academicianes)
 											{
@@ -55,7 +55,7 @@
 									</div>
 									<div class="col-md-6">
 										<label class="form-label">Dersin Açıklaması</label>
-										<input type="text" class="form-control" id="LessonAcademician">
+										<input type="text" class="form-control" name="LessonDescription" id="LessonDescription">
 									</div>
 								</div>
 							</div>
@@ -64,7 +64,7 @@
 					</div>
 
 					<div class="gap-3 d-md-flex justify-content-md-end text-center">
-						<button type="button" class="btn btn-primary btn-lg">Ders Ekle</button>
+						<button type="submit" class="btn btn-primary btn-lg">Ders Ekle</button>
 					</div>
 				</form>
 			</div>

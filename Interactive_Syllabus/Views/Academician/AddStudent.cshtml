@@ -1,4 +1,4 @@
-﻿
+﻿@model AddStudentViewModel
 @{
     ViewData["Title"] = "AddStudent";
     Layout = "~/Views/Shared/_AcademicianLayout.cshtml";
@@ -16,7 +16,7 @@
 					<hr>
 				</div>
 
-				<form class="file-upload">
+				<form class="file-upload" method="post" asp-controller="Academician" asp-action="AddStudent" enctype="multipart/form-data">
 					<div class="row mb-5 gx-5">
 
 						<div class="col-xxl-8 mb-5 mb-xxl-0">
@@ -25,27 +25,27 @@
 
 									<div class="col-md-6 mb-4">
 										<label class="form-label">İsim</label>
-										<input type="text" class="form-control" id="Name">
+										<input type="text" class="form-control" name="StudentName" id="StudentName">
 									</div>
 
 									<div class="col-md-6 mb-4">
 										<label class="form-label">Soyisim</label>
-										<input type="text" class="form-control" id="Surname">
+										<input type="text" class="form-control" name="StudentSurname" id="StudentSurname">
 									</div>
 
 									<div class="col-md-6 mb-4">
 										<label for="inputEmail4" class="form-label">Mail Adresi</label>
-										<input type="email" class="form-control" id="Email">
+										<input type="email" class="form-control" name="StudentEmail" id="StudentEmail">
 									</div>
 
 									<div class="col-md-6 mb-4">
 										<label for="exampleInputPassword2" class="form-label">Yeni Şifre</label>
-										<input type="password" class="form-control" id="Password">
+										<input type="password" class="form-control" name="StudentPassword" id="StudentPassword">
 									</div>
 
 									<div class="col-md-6 mb-4">
 										<label class="form-label">Öğrencinin Sınıfı</label><br />
-										<select class="btn btn-outline-secondary dropdown-toggle" id="StudentClass" name="StudentClass">
+										<select class="btn btn-outline-secondary dropdown-toggle" id="StudentClassID" name="StudentClassID">
 											<option selected disabled>Sınıf Seçin</option>
 											@foreach (var item in ViewBag.Class)
 											{
@@ -56,7 +56,7 @@
 
 									<div class="col-md-6 mb-4">
 										<label class="form-label">Öğrencinin Bölümü</label><br />
-										<select class="btn btn-outline-secondary dropdown-toggle" id="StudentSection" name="StudentSection">
+										<select class="btn btn-outline-secondary dropdown-toggle" id="StudentsSectionID" name="StudentsSectionID">
 											<option selected disabled>Bölüm Seçin</option>
 											@foreach (var item in ViewBag.Sections)
 											{
@@ -71,7 +71,7 @@
 					</div>
 
 					<div class="gap-3 d-md-flex justify-content-md-end text-center">
-						<button type="button" class="btn btn-primary btn-lg">Öğrenci Ekle</button>
+						<button type="submit" class="btn btn-primary btn-lg">Öğrenci Ekle</button>
 					</div>
 				</form>
 			</div>
