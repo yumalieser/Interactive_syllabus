@@ -99,6 +99,9 @@ namespace Interactive_Syllabus.Migrations
                     b.Property<int>("LessonAKTS")
                         .HasColumnType("int");
 
+                    b.Property<int>("LessonClass")
+                        .HasColumnType("int");
+
                     b.Property<int>("LessonCredit")
                         .HasColumnType("int");
 
@@ -260,13 +263,13 @@ namespace Interactive_Syllabus.Migrations
 
             modelBuilder.Entity("Interactive_Syllabus.Models.Lesson", b =>
                 {
-                    b.HasOne("Interactive_Syllabus.Models.Academician", "academician")
+                    b.HasOne("Interactive_Syllabus.Models.Academician", "Academician")
                         .WithMany("Lessons")
                         .HasForeignKey("AcademicianID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("academician");
+                    b.Navigation("Academician");
                 });
 
             modelBuilder.Entity("Interactive_Syllabus.Models.Student", b =>
