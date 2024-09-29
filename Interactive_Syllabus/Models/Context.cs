@@ -7,7 +7,7 @@ namespace Interactive_Syllabus.Models
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=ACER-NITRO-ALI\\MSSQLSERVER01; database=SyllabusDB; integrated security=true; TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("server=ACER-NITRO-ALI\\MSSQLSERVER01; database=SyllabusDB1; integrated security=true; TrustServerCertificate=True;");
         }
 
 

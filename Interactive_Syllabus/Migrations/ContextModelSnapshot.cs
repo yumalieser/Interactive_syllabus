@@ -108,9 +108,15 @@ namespace Interactive_Syllabus.Migrations
                     b.Property<string>("LessonDescription")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("LessonHour")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("LessonName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("LessonStatus")
+                        .HasColumnType("bit");
 
                     b.HasKey("LessonID");
 

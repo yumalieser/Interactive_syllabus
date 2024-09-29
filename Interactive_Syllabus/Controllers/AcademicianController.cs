@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using OfficeOpenXml;
+using Microsoft.EntityFrameworkCore;
 
 namespace Interactive_Syllabus.Controllers
 {
@@ -151,11 +152,23 @@ namespace Interactive_Syllabus.Controllers
 
 		/* DERS İŞLEMLERİ */
 		[HttpGet]
-		public IActionResult Lessons()
+		public async Task<IActionResult> Lessons()
 		{
-			var dersListele = _context.Lessons.ToList();
-			return View(dersListele);
-		}
+            var lessons = await _context.Lessons
+               .Include(l => l.Academician) // Akademisyen ile ilişkilendirilmiş veriyi dahil ediyoruz
+               .ToListAsync();
+
+            return View(lessons); // View'a listesi gönderiliyor
+        }
+        [HttpGet]
+        public async Task<IActionResult> LessonsActivate()
+        {
+            var lessons = await _context.Lessons
+               .Include(l => l.Academician) // Akademisyen ile ilişkilendirilmiş veriyi dahil ediyoruz
+               .ToListAsync();
+
+            return View(lessons); // View'a listesi gönderiliyor
+        }
         [HttpGet]
         public IActionResult AddLesson()
         {
