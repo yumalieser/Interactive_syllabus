@@ -7,7 +7,7 @@ namespace Interactive_Syllabus.Models
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=ACER-NITRO-ALI\\MSSQLSERVER01; database=SyllabusDB1; integrated security=true; TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("server=localhost; database=SyllabusDB1; integrated security=true; TrustServerCertificate=True;");
         }
 
 
@@ -30,5 +30,6 @@ namespace Interactive_Syllabus.Models
         public DbSet<StudentsClass> StudentsClasses { get; set; }
         public DbSet<StudentsSection> StudentsSections { get; set; }
         public DbSet<StudentFailedLessons> StudentFailedLessons { get; set;}
+        public DbSet<TechnicalElectiveCourse> TechnicalElectiveCourses {get; set;}
     }
 }

@@ -1,35 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj": {}
+    "/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Interactive_Syllabus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj": {
+    "/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Interactive_Syllabus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
+        "projectUniqueName": "/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Interactive_Syllabus.csproj",
         "projectName": "Interactive_Syllabus",
-        "projectPath": "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
-        "packagesPath": "C:\\Users\\malie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\malie\\Desktop\\DERS\\3.SINIF\\Web Programlama\\Interactive_syllabus\\Interactive_Syllabus\\obj\\",
+        "projectPath": "/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Interactive_Syllabus.csproj",
+        "packagesPath": "/Users/malie/.nuget/packages/",
+        "outputPath": "/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\malie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/malie/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com/xysinav/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -41,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -95,6 +91,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -103,7 +113,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }
