@@ -31,5 +31,6 @@ namespace Interactive_Syllabus.Models
         public DbSet<StudentsSection> StudentsSections { get; set; }
         public DbSet<StudentFailedLessons> StudentFailedLessons { get; set;}
         public DbSet<TechnicalElectiveCourse> TechnicalElectiveCourses {get; set;}
+        public DbSet<LessonHour> LessonHours {get; set;}
     }
 }
