@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "AddMultipleLesson";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container">
+    <br />
+    <br />
+    <br />
+    <h3>Toplu Ders Ekleme</h3>
+    <hr />
+    <br />
+    <br />
+    <form asp-action="AddMultipleAcademician" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="file">Excel Dosyası Yükle</label>
+            <input type="file" class="form-control" name="file" />
+        </div>
+        <br />
+        <br />
+        <button type="submit" class="btn btn-primary">Dersleri Yükle</button>
+    </form>
+</div>
+

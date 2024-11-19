@@ -10,7 +10,7 @@ namespace Interactive_Syllabus.Models
         public string? AcademicianDescription { get; set;}
         public string AcademicianSection { get; set;}
         public string AcademicianPassword { get; set;}
-        public string AcademicianEMail { get; set;}
+        public string AcademicianEmail { get; set;}
         
         public List<Lesson> Lessons { get; set;}
     }

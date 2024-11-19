@@ -24,6 +24,7 @@ builder.Services.AddAuthorization(options =>
 {
 	options.AddPolicy("StudentOnly", policy => policy.RequireClaim("UserType", "Student"));
 	options.AddPolicy("AcademicianOnly", policy => policy.RequireClaim("UserType", "Academician"));
+	options.AddPolicy("AdminOnly", policy => policy.RequireClaim("UserType", "Admin"));
 });
 
 var app = builder.Build();
@@ -44,6 +45,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Login}/{action=Home}/{id?}");
+    pattern: "{controller=Login}/{action=Admin}/{id?}");
 
 app.Run();

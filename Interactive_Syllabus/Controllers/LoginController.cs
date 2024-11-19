@@ -45,14 +45,35 @@ namespace Interactive_Syllabus.Controllers
 		[HttpPost]
 		public async Task<IActionResult> Academician(string email, string password)
 		{
-			var academician = await c.Academicianes.FirstOrDefaultAsync(x => x.AcademicianEMail == email && x.AcademicianPassword == password);
+			var academician = await c.Academicianes.FirstOrDefaultAsync(x => x.AcademicianEmail == email && x.AcademicianPassword == password);
 
 			if (academician != null)
 			{
-				await SignInUser(academician.AcademicianID.ToString(), academician.AcademicianEMail, "Academician");
+				await SignInUser(academician.AcademicianID.ToString(), academician.AcademicianEmail, "Academician");
 				return RedirectToAction("Panel", "Academician");
 			}
 
+			ModelState.AddModelError("", "Invalid credentials");
+			return View();
+		}
+
+		[HttpGet]
+		public IActionResult Admin()
+		{
+			return View();
+		}
+
+		[HttpPost]
+		public async Task<IActionResult> Admin(string email, string password)
+		{
+			var admin = await c.Admins.FirstOrDefaultAsync(x => x.AdminEmail == email && x.AdminPassword == password);
+
+			if (admin != null)
+			{
+				await SignInUser(admin.AdminID.ToString(), admin.AdminEmail, "Admin");
+				return RedirectToAction("Panel", "Admin");
+			}
+			//TempData["ErrorMessage"] = "Gecersiz email veya sifre.";
 			ModelState.AddModelError("", "Invalid credentials");
 			return View();
 		}

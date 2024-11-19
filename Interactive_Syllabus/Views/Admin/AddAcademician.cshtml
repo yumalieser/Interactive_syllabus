@@ -1,0 +1,66 @@
+﻿@model AddAcademicianViewModel
+@{
+	ViewData["Title"] = "AddAcademician";
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+	var StudentSections = (List<StudentsSection>)ViewBag.Sections; // Bölümleri ViewBag üzerinden alıyoruz
+}
+<div class="main-panel">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css" integrity="sha256-2XFplPlrFClt0bIdPgpz8H7ojnk10H69xRqd9+uTShA=" crossorigin="anonymous" />
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+
+				<div class="my-5">
+					<h3>Akademisyen Ekle</h3>
+					<hr>
+				</div>
+
+				<form class="file-upload" method="post" asp-controller="Admin" asp-action="AddAcademician" enctype="multipart/form-data">
+					<div class="row mb-5 gx-5">
+
+						<div class="col-xxl-8 mb-5 mb-xxl-0">
+							<div class="bg-secondary-soft px-4 py-5 rounded">
+								<div class="row g-3">
+
+									<div class="col-md-6 mb-4">
+										<label class="form-label">İsim</label>
+										<input type="text" class="form-control" name="AcademicianName" id="AcademicianName">
+									</div>
+
+
+									<div class="col-md-6 mb-4">
+										<label for="inputEmail4" class="form-label">Mail Adresi</label>
+										<input type="email" class="form-control" name="AcademicianEmail" id="AcademicianEmail">
+									</div>
+
+									<div class="col-md-6 mb-4">
+										<label for="exampleInputPassword2" class="form-label">Yeni Şifre</label>
+										<input type="password" class="form-control" name="AcademicianPassword" id="AcademicianPassword">
+									</div>
+
+
+									<div class="col-md-6 mb-4">
+										<label class="form-label">Akademisyenin Bölümü</label><br />
+										<select class="btn btn-outline-secondary dropdown-toggle" id="AcademicianSectionID" name="AcademicianSection">
+											<option selected disabled>Bölüm Seçin</option>
+											@foreach (var item in ViewBag.Sections)
+											{
+												<option value="@item.StudentsSectionID">@item.StudentSectionName</option>
+											}
+										</select>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+					<div class="gap-3 d-md-flex justify-content-md-end text-center">
+						<button type="submit" class="btn btn-primary btn-lg">Öğrenci Ekle</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- partial -->
+</div>
