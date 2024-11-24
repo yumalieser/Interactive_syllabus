@@ -274,6 +274,16 @@ namespace Interactive_Syllabus.Controllers
 
             return RedirectToAction("Lessons");
         }
+        [HttpGet]
+        public IActionResult AddLessonBaseScore()
+        {
+			return View();
+        }
+        [HttpPost]
+        public IActionResult AddLessonBaseScore(int id)
+        {
+			return View();
+        }
         public async Task<IActionResult> Logout()
 		{
 			await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);

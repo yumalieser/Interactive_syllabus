@@ -1,37 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj": {}
+    "/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Interactive_Syllabus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj": {
+    "/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Interactive_Syllabus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
+        "projectUniqueName": "/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Interactive_Syllabus.csproj",
         "projectName": "Interactive_Syllabus",
-        "projectPath": "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\Interactive_Syllabus.csproj",
-        "packagesPath": "C:\\Users\\Sadık Abdusselam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sadık Abdusselam\\Desktop\\Public Class gameMake{ }\\Public void Coder(int case)\\case2\\c#Data\\Interactive_syllabus\\Interactive_Syllabus\\obj\\",
+        "projectPath": "/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Interactive_Syllabus.csproj",
+        "packagesPath": "/Users/malie/.nuget/packages/",
+        "outputPath": "/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Sadık Abdusselam\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/malie/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "EPPlus": {
               "target": "Package",
@@ -106,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

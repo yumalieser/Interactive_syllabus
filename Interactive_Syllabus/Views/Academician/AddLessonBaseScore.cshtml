@@ -1,0 +1,36 @@
+
+@{
+    ViewData["Title"] = "AddLessonBaseScore";
+    Layout = "~/Views/Shared/_AcademicianLayout.cshtml";
+}
+
+<div class="container">
+    <br />
+    <br />
+    <br />
+    <h3>Ders Baz Puan Ekleme</h3>
+    <hr />
+    <br />
+    <br />
+    <form asp-action="AddLessonBaseScore" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <div class="col-md-6 mb-4">
+				<label class="form-label">İlgili Akademisyen</label><br />
+				<select class="btn btn-outline-secondary dropdown-toggle" id="LessonAcademician" name="LessonAcademicianID">
+					<option selected disabled>Akademisyen Seçin</option>
+						@foreach (var item in ViewBag.Academicianes)
+						{
+							<option value="@item.AcademicianID">@item.AcademicianName</option>
+						}
+				</select>
+			</div>
+            <div class="col-md-6">
+				<label class="form-label">Dersin Baz Puanı</label>
+				<input type="text" class="form-control" name="LessonBaseScore" id="LessonBaseScore">
+			</div>
+        </div>
+        <br />
+        <br />
+        <button type="submit" class="btn btn-primary">Baz Puan Ekle</button>
+    </form>
+</div>

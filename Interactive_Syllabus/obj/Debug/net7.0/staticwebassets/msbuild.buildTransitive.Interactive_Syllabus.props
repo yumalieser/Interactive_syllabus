@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\Interactive_Syllabus.props" />
+  <Import Project="../buildMultiTargeting/Interactive_Syllabus.props" />
 </Project>

@@ -33,7 +33,7 @@ namespace Interactive_Syllabus.Migrations
                     b.Property<string>("AcademicianDescription")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("AcademicianEMail")
+                    b.Property<string>("AcademicianEmail")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -88,6 +88,23 @@ namespace Interactive_Syllabus.Migrations
                     b.ToTable("Admins");
                 });
 
+            modelBuilder.Entity("Interactive_Syllabus.Models.Classroom", b =>
+                {
+                    b.Property<string>("ClassroomID")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("ClassroomCapacity")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ClassroomName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ClassroomID");
+
+                    b.ToTable("Classrooms");
+                });
+
             modelBuilder.Entity("Interactive_Syllabus.Models.Lesson", b =>
                 {
                     b.Property<string>("LessonID")
@@ -99,6 +116,9 @@ namespace Interactive_Syllabus.Migrations
                     b.Property<int>("LessonAKTS")
                         .HasColumnType("int");
 
+                    b.Property<int?>("LessonBaseScore")
+                        .HasColumnType("int");
+
                     b.Property<int>("LessonClass")
                         .HasColumnType("int");
 
@@ -107,6 +127,9 @@ namespace Interactive_Syllabus.Migrations
 
                     b.Property<string>("LessonDescription")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("LessonFailedStudentScore")
+                        .HasColumnType("int");
 
                     b.Property<string>("LessonHour")
                         .HasColumnType("nvarchar(max)");
@@ -123,6 +146,27 @@ namespace Interactive_Syllabus.Migrations
                     b.HasIndex("AcademicianID");
 
                     b.ToTable("Lessons");
+                });
+
+            modelBuilder.Entity("Interactive_Syllabus.Models.LessonHour", b =>
+                {
+                    b.Property<int>("LessonHourID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("LessonHourID"));
+
+                    b.Property<int>("LessonHourTime")
+                        .HasColumnType("int");
+
+                    b.Property<string>("LessonID")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("LessonHourID");
+
+                    b.HasIndex("LessonID");
+
+                    b.ToTable("LessonHours");
                 });
 
             modelBuilder.Entity("Interactive_Syllabus.Models.Student", b =>
@@ -260,6 +304,23 @@ namespace Interactive_Syllabus.Migrations
                     b.ToTable("Syllabus");
                 });
 
+            modelBuilder.Entity("Interactive_Syllabus.Models.TechnicalElectiveCourse", b =>
+                {
+                    b.Property<int>("CourseID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CourseID"));
+
+                    b.Property<string>("CourseName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("CourseID");
+
+                    b.ToTable("TechnicalElectiveCourses");
+                });
+
             modelBuilder.Entity("Interactive_Syllabus.Models.Academician", b =>
                 {
                     b.HasOne("Interactive_Syllabus.Models.StudentsSection", null)
@@ -276,6 +337,15 @@ namespace Interactive_Syllabus.Migrations
                         .IsRequired();
 
                     b.Navigation("Academician");
+                });
+
+            modelBuilder.Entity("Interactive_Syllabus.Models.LessonHour", b =>
+                {
+                    b.HasOne("Interactive_Syllabus.Models.Lesson", "Lesson")
+                        .WithMany()
+                        .HasForeignKey("LessonID");
+
+                    b.Navigation("Lesson");
                 });
 
             modelBuilder.Entity("Interactive_Syllabus.Models.Student", b =>

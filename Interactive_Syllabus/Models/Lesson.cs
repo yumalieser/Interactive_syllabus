@@ -13,7 +13,8 @@ namespace Interactive_Syllabus.Models
         public string? LessonHour { get; set; }
         public int LessonClass { get; set; }
         public bool LessonStatus { get; set; }
-
+        public int? LessonBaseScore { get; set; }
+        public int? LessonFailedStudentScore { get; set; }
 
 		// Foreign key
 		public int AcademicianID { get; set; }

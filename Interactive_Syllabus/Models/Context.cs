@@ -5,10 +5,10 @@ namespace Interactive_Syllabus.Models
 {
     public class Context : DbContext
     {
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    optionsBuilder.UseSqlServer("server=localhost; database=SyllabusDB1; integrated security=true; TrustServerCertificate=True;");
-        //}
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer("server=localhost; database=SyllabusDB;  User Id=SA; password=reallyStrongPwd123; TrustServerCertificate=True;");
+        }
 
 
         //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -16,10 +16,10 @@ namespace Interactive_Syllabus.Models
         //    optionsBuilder.UseSqlServer("server=FURKAN; database=SyllabusDB; integrated security=true; TrustServerCertificate=true");
         //}
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("server=localhost; database=SyllabusDB; integrated security=true; TrustServerCertificate=True;");
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer("server=localhost; database=SyllabusDB; integrated security=true; TrustServerCertificate=True;");
+        //}
 
 
         public DbSet<Admin> Admins { get; set; }
@@ -32,5 +32,6 @@ namespace Interactive_Syllabus.Models
         public DbSet<StudentFailedLessons> StudentFailedLessons { get; set;}
         public DbSet<TechnicalElectiveCourse> TechnicalElectiveCourses {get; set;}
         public DbSet<LessonHour> LessonHours {get; set;}
+        public DbSet<Classroom> Classrooms {get; set;}
     }
 }

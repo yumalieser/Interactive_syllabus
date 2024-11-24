@@ -9,183 +9,187 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Interactive_Syllabus
 build_property.RootNamespace = Interactive_Syllabus
-build_property.ProjectDir = C:\Users\Sadık Abdusselam\Desktop\Public Class gameMake{ }\Public void Coder(int case)\case2\c#Data\Interactive_syllabus\Interactive_Syllabus\
+build_property.ProjectDir = /Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Sadık Abdusselam\Desktop\Public Class gameMake{ }\Public void Coder(int case)\case2\c#Data\Interactive_syllabus\Interactive_Syllabus
+build_property.MSBuildProjectDirectory = /Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Academician/AddLesson.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNpYW5cQWRkTGVzc29uLmNzaHRtbA==
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Academician/AddLesson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNhZGVtaWNpYW4vQWRkTGVzc29uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Academician/AddMultipleLesson.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNpYW5cQWRkTXVsdGlwbGVMZXNzb24uY3NodG1s
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Academician/AddLessonBaseScore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNhZGVtaWNpYW4vQWRkTGVzc29uQmFzZVNjb3JlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Academician/AddMultipleStudent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNpYW5cQWRkTXVsdGlwbGVTdHVkZW50LmNzaHRtbA==
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Academician/AddMultipleLesson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNhZGVtaWNpYW4vQWRkTXVsdGlwbGVMZXNzb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Academician/AddStudent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNpYW5cQWRkU3R1ZGVudC5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Academician/AddMultipleStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNhZGVtaWNpYW4vQWRkTXVsdGlwbGVTdHVkZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Academician/Lessons.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNpYW5cTGVzc29ucy5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Academician/AddStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNhZGVtaWNpYW4vQWRkU3R1ZGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Academician/Objections.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNpYW5cT2JqZWN0aW9ucy5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Academician/Lessons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNhZGVtaWNpYW4vTGVzc29ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Academician/Panel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNpYW5cUGFuZWwuY3NodG1s
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Academician/Objections.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNhZGVtaWNpYW4vT2JqZWN0aW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Academician/Profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNpYW5cUHJvZmlsZS5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Academician/Panel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNhZGVtaWNpYW4vUGFuZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Academician/Students.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNpYW5cU3R1ZGVudHMuY3NodG1s
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Academician/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNhZGVtaWNpYW4vUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Academician/Syllabus.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNhZGVtaWNpYW5cU3lsbGFidXMuY3NodG1s
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Academician/Students.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNhZGVtaWNpYW4vU3R1ZGVudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Admin/Academicianes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWNhZGVtaWNpYW5lcy5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Academician/Syllabus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNhZGVtaWNpYW4vU3lsbGFidXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Admin/AddAcademician.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQWNhZGVtaWNpYW4uY3NodG1s
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Admin/Academicianes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQWNhZGVtaWNpYW5lcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Admin/AddMultipleAcademician.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkTXVsdGlwbGVBY2FkZW1pY2lhbi5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Admin/AddAcademician.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQWRkQWNhZGVtaWNpYW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Admin/AddMultipleStudent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkTXVsdGlwbGVTdHVkZW50LmNzaHRtbA==
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Admin/AddMultipleAcademician.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQWRkTXVsdGlwbGVBY2FkZW1pY2lhbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Admin/AddStudent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkU3R1ZGVudC5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Admin/AddMultipleStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQWRkTXVsdGlwbGVTdHVkZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Admin/Objections.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT2JqZWN0aW9ucy5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Admin/AddStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQWRkU3R1ZGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Admin/Panel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFuZWwuY3NodG1s
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Admin/Objections.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vT2JqZWN0aW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Admin/Profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZmlsZS5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Admin/Panel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUGFuZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Admin/Students.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3R1ZGVudHMuY3NodG1s
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Admin/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Admin/Students.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vU3R1ZGVudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Login/Academician.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWNhZGVtaWNpYW4uY3NodG1s
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Login/Academician_En.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWNhZGVtaWNpYW5fRW4uY3NodG1s
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Login/Academician.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vQWNhZGVtaWNpYW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Login/Admin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWRtaW4uY3NodG1s
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Login/Academician_En.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vQWNhZGVtaWNpYW5fRW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Login/Home.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSG9tZS5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Login/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vQWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Login/Home_En.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSG9tZV9Fbi5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Login/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vSG9tZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Login/ResetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVzZXRQYXNzd29yZC5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Login/Home_En.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vSG9tZV9Fbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Login/ResetPassword_En.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVzZXRQYXNzd29yZF9Fbi5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Login/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vUmVzZXRQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Login/Student.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU3R1ZGVudC5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Login/ResetPassword_En.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vUmVzZXRQYXNzd29yZF9Fbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Login/Student_En.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU3R1ZGVudF9Fbi5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Login/Student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vU3R1ZGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Login/Student_En.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vU3R1ZGVudF9Fbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Shared/_AcademicianLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY2FkZW1pY2lhbkxheW91dC5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Shared/_AdminLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Shared/_AcademicianLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BY2FkZW1pY2lhbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Shared/_StudentLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHVkZW50TGF5b3V0LmNzaHRtbA==
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Shared/_StudentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TdHVkZW50TGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Student/Lessons.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxMZXNzb25zLmNzaHRtbA==
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Student/Objections.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxPYmplY3Rpb25zLmNzaHRtbA==
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Student/Lessons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9MZXNzb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Student/Panel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxQYW5lbC5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Student/Objections.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9PYmplY3Rpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Student/Profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxQcm9maWxlLmNzaHRtbA==
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Student/Panel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9QYW5lbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Student/Syllabus.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTeWxsYWJ1cy5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Student/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9Qcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Student/Syllabus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9TeWxsYWJ1cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sadık Abdusselam/Desktop/Public Class gameMake\{ \}/Public void Coder(int case)/case2/c\#Data/Interactive_syllabus/Interactive_Syllabus/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-7hqxj413rd
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/malie/Documents/GitHub/Interactive_syllabus/Interactive_Syllabus/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9uugpmmkej
